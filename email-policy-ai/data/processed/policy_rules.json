@@ -1,0 +1,2034 @@
+[
+  {
+    "title": "1. Introduction",
+    "content": "us solutions pvt ltd. recognizes that encryption is a fundamental security control for protecting the confidentiality and integrity of sensitive information. this encryption policy establishes the guidelines and requirements for encrypting data at rest and in transit across all company systems and applications. all employees, contractors, and authorized users (\"users\") are required to adhere to this policy to ensure the security of our information assets.",
+    "metadata": {
+      "source": "Encryption Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.574119"
+    }
+  },
+  {
+    "title": "2. Purpose",
+    "content": "the purpose of this policy is to: establish a consistent approach to data encryption. protect sensitive information from unauthorized access and disclosure. ensure compliance with applicable laws and regulations. define the responsibilities of data owners and custodians regarding encryption. minimize the risk of data breaches and security incidents.",
+    "metadata": {
+      "source": "Encryption Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.574119"
+    }
+  },
+  {
+    "title": "3. Scope",
+    "content": "this policy applies to all data owned, processed, or transmitted by us solutions pvt ltd., including: electronic data stored on company devices (laptops, desktops, servers). data transmitted over company networks and the internet. data stored on removable media (usb drives, external hard drives). data stored in cloud-based services. data stored in databases and applications. any sensitive information that requires protection.",
+    "metadata": {
+      "source": "Encryption Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.574119"
+    }
+  },
+  {
+    "title": "4. Encryption Requirements",
+    "content": "data at rest: sensitive data stored on company devices must be encrypted using approved encryption algorithms (e.g., aes-256). full disk encryption must be enabled on laptops and mobile devices. databases and applications containing sensitive data must be encrypted. removable media containing sensitive data must be encrypted. data in transit: sensitive data transmitted over company networks and the internet must be encrypted using secure protocols (e.g., tls/ssl, https, ipsec). email communication containing sensitive information must be encrypted (e.g., s/mime, pgp). vpns must be used for secure remote access. file transfers must be done using sftp or ftps. key management: encryption keys must be generated, stored, and managed securely. key management systems must be used to protect encryption keys. keys must be rotated regularly. keys must be backed up securely. approved algorithms: only industry standard and company approved encryption algorithms are to be used.",
+    "metadata": {
+      "source": "Encryption Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.574119"
+    }
+  },
+  {
+    "title": "5. Data Classification and Encryption",
+    "content": "data must be classified according to the company's data classification policy. encryption requirements vary based on the data classification level: public: no encryption required. internal: encryption recommended for sensitive internal data. confidential: encryption required for data at rest and in transit. restricted: strong encryption required for data at rest and in transit, with strict key management.",
+    "metadata": {
+      "source": "Encryption Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.574119"
+    }
+  },
+  {
+    "title": "6. Responsibilities",
+    "content": "data owners: determine the encryption requirements for their data. ensure that data is encrypted in accordance with this policy. approve access to encrypted data. data custodians: implement and maintain encryption controls. ensure that encryption keys are managed securely. report any encryption-related security incidents. it department: provide encryption tools and support. manage encryption keys and key management systems. monitor and audit encryption controls. provide training to users on encryption best practices. all users: comply with this encryption policy. protect encryption keys and passwords. report any suspected encryption-related security incidents.",
+    "metadata": {
+      "source": "Encryption Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.574119"
+    }
+  },
+  {
+    "title": "7. Legal and Regulatory Compliance",
+    "content": "this policy complies with all applicable data privacy laws and regulations (e.g., gdpr, ccpa, hipaa). encryption controls must be consistent with legal and regulatory requirements.",
+    "metadata": {
+      "source": "Encryption Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.574119"
+    }
+  },
+  {
+    "title": "8. Training and Awareness",
+    "content": "all users will receive training on this encryption policy. regular security awareness training will be provided to reinforce encryption best practices.",
+    "metadata": {
+      "source": "Encryption Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.574119"
+    }
+  },
+  {
+    "title": "9. Policy Review and Updates",
+    "content": "this policy will be reviewed and updated annually or as needed to reflect changes in technology, threats, and regulations. any updates to this policy will be communicated to all users.",
+    "metadata": {
+      "source": "Encryption Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.574119"
+    }
+  },
+  {
+    "title": "10. Monitoring and Enforcement",
+    "content": "the it department will conduct regular audits to ensure compliance with this policy. violations of this policy may result in disciplinary action, up to and including termination of employment or contract.",
+    "metadata": {
+      "source": "Encryption Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.574119"
+    }
+  },
+  {
+    "title": "11. Acknowledgement",
+    "content": "by accessing company information assets, users acknowledge that they have read, understood, and agree to comply with this encryption policy. this encryption policy is designed to protect us solutions pvt ltd.'s sensitive information and ensure compliance with applicable laws and regulations. by adhering to these guidelines, users contribute to a secure and compliant work environment.",
+    "metadata": {
+      "source": "Encryption Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.574119"
+    }
+  },
+  {
+    "title": "1. Introduction",
+    "content": "us solutions pvt ltd. recognizes that security incidents are inevitable. this incident response policy outlines the procedures for detecting, responding to, and recovering from security incidents to minimize their impact on our business operations and protect our information assets. all employees, contractors, and authorized users (\"users\") are required to adhere to this policy.",
+    "metadata": {
+      "source": "Incident Response Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.592007"
+    }
+  },
+  {
+    "title": "2. Purpose",
+    "content": "the purpose of this policy is to: establish a structured approach to incident response. minimize the impact of security incidents on business operations. protect the confidentiality, integrity, and availability of company data. ensure compliance with applicable laws and regulations. provide clear roles and responsibilities for incident handling.",
+    "metadata": {
+      "source": "Incident Response Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.592007"
+    }
+  },
+  {
+    "title": "3. Scope",
+    "content": "this policy applies to all security incidents affecting company systems, applications, and data, including but not limited to: malware infections. unauthorized access attempts. data breaches. denial-of-service attacks. phishing attacks. lost or stolen devices. insider threats.",
+    "metadata": {
+      "source": "Incident Response Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.592007"
+    }
+  },
+  {
+    "title": "4. Incident Response Team (IRT)",
+    "content": "the incident response team (irt) is responsible for coordinating and managing incident response activities. the irt comprises representatives from the it & infosec department, legal, human resources, and other relevant departments. the irt will be led by the incident response manager (currently johnathan rivers). the irt will be available 24/7 for critical incidents.",
+    "metadata": {
+      "source": "Incident Response Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.592007"
+    }
+  },
+  {
+    "title": "5. Incident Response Phases",
+    "content": "the incident response process consists of the following phases: preparation: establishing incident response plans and procedures. developing communication protocols. providing security awareness training. maintaining up-to-date security tools and resources. detection and analysis: identifying and analyzing security incidents. gathering evidence and documenting findings. determining the scope and impact of the incident. utilizing security information and event management (siem) systems. containment: isolating affected systems and networks. preventing the spread of malware or unauthorized access. implementing temporary security measures. eradication: removing malware or other malicious code. patching vulnerabilities. restoring systems to a known good state. recovery: restoring affected systems and data. verifying system functionality. returning to normal business operations. post-incident activity: conducting a post-incident review. documenting lessons learned. updating incident response plans and procedures. implementing preventive measures.",
+    "metadata": {
+      "source": "Incident Response Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.592007"
+    }
+  },
+  {
+    "title": "6. Incident Reporting Procedures",
+    "content": "users must immediately report any suspected security incidents to the it department ([email address removed]) or the incident response manager. reports should include as much detail as possible, including the date, time, and nature of the incident. the irt will acknowledge the report and initiate an investigation.",
+    "metadata": {
+      "source": "Incident Response Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.592007"
+    }
+  },
+  {
+    "title": "7. Incident Severity Levels",
+    "content": "incidents will be classified according to their severity: low: minor incidents with minimal impact on business operations. medium: incidents with a moderate impact on business operations. high: critical incidents with a significant impact on business operations. critical: incidents that threaten the core business operations.",
+    "metadata": {
+      "source": "Incident Response Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.592007"
+    }
+  },
+  {
+    "title": "8. Communication Procedures",
+    "content": "the irt will establish communication channels for internal and external stakeholders. communication will be timely, accurate, and consistent. public statements will be approved by the legal and communications departments.",
+    "metadata": {
+      "source": "Incident Response Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.592007"
+    }
+  },
+  {
+    "title": "9. Legal and Regulatory Compliance",
+    "content": "the irt will ensure compliance with all applicable laws and regulations (e.g., gdpr, ccpa, pci dss). data breaches will be reported to relevant authorities as required. evidence will be preserved for legal proceedings.",
+    "metadata": {
+      "source": "Incident Response Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.592007"
+    }
+  },
+  {
+    "title": "10. Training and Awareness",
+    "content": "all users will receive training on incident reporting procedures. regular security awareness training will be provided to reinforce incident response best practices. the irt will conduct regular drills and simulations.",
+    "metadata": {
+      "source": "Incident Response Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.592007"
+    }
+  },
+  {
+    "title": "11. Policy Review and Updates",
+    "content": "this policy will be reviewed and updated annually or as needed to reflect changes in technology, threats, and regulations. any updates to this policy will be communicated to all users.",
+    "metadata": {
+      "source": "Incident Response Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.592007"
+    }
+  },
+  {
+    "title": "12. Acknowledgement",
+    "content": "by accessing company systems, applications, and data, users acknowledge that they have read, understood, and agree to comply with this incident response policy. this incident response policy is designed to ensure that us solutions pvt ltd. can effectively respond to and recover from security incidents. by adhering to these guidelines, users contribute to a secure and resilient work environment.",
+    "metadata": {
+      "source": "Incident Response Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.592007"
+    }
+  },
+  {
+    "title": "1. Introduction",
+    "content": "us solutions pvt ltd. recognizes that comprehensive logging and monitoring are crucial for detecting, investigating, and responding to security incidents and ensuring the integrity and availability of our systems and data. this logging and monitoring policy establishes the guidelines and procedures for collecting, storing, analyzing, and retaining log data. all employees, contractors, and authorized users (\"users\") are required to adhere to this policy.",
+    "metadata": {
+      "source": "Logging and Monitoring Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.608855"
+    }
+  },
+  {
+    "title": "2. Purpose",
+    "content": "the purpose of this policy is to: establish a standardized approach to logging and monitoring. detect and respond to security incidents in a timely manner. ensure the integrity and availability of company systems and data. facilitate compliance with applicable laws, regulations, and industry standards. provide a foundation for forensic investigations and audits.",
+    "metadata": {
+      "source": "Logging and Monitoring Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.608855"
+    }
+  },
+  {
+    "title": "3. Scope",
+    "content": "this policy applies to all systems, applications, and networks owned, managed, or accessed by us solutions pvt ltd., including: servers and workstations. network devices (routers, firewalls, switches). databases and applications. cloud-based services. security devices (ids/ips, siem). remote access systems. any system that processes, stores, or transmits company data.",
+    "metadata": {
+      "source": "Logging and Monitoring Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.608855"
+    }
+  },
+  {
+    "title": "4. Logging Requirements",
+    "content": "log data: log data must include relevant information, such as timestamps, user ids, ip addresses, event types, and system actions. log sources: logs must be collected from all critical systems and applications. log retention: log data must be retained for a minimum of [insert time period, e.g., 12 months] to support investigations and audits. log integrity: log data must be protected from unauthorized modification or deletion. log storage: log data must be stored securely, using encryption and access controls. time synchronization: all systems must be synchronized with a reliable time source (e.g., ntp).",
+    "metadata": {
+      "source": "Logging and Monitoring Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.608855"
+    }
+  },
+  {
+    "title": "5. Monitoring Requirements",
+    "content": "real-time monitoring: critical systems and applications must be monitored in real-time for security events and performance issues. alerting: security alerts must be generated for suspicious or anomalous activity. thresholds: monitoring thresholds must be established to detect deviations from normal behavior. log analysis: log data must be analyzed regularly to identify security trends and potential threats. security information and event management (siem): siem systems must be used to aggregate and analyze log data from multiple sources. network monitoring: network traffic must be monitored for suspicious activity and performance issues.",
+    "metadata": {
+      "source": "Logging and Monitoring Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.608855"
+    }
+  },
+  {
+    "title": "6. Access Control",
+    "content": "access to log data and monitoring tools must be restricted to authorized personnel. access controls must be based on the principle of least privilege. access logs must be maintained and audited regularly.",
+    "metadata": {
+      "source": "Logging and Monitoring Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.608855"
+    }
+  },
+  {
+    "title": "7. Incident Response",
+    "content": "log data and monitoring tools must be used to support incident response activities. security incidents identified through monitoring must be reported and investigated promptly. log data must be preserved for forensic analysis.",
+    "metadata": {
+      "source": "Logging and Monitoring Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.608855"
+    }
+  },
+  {
+    "title": "8. Legal and Regulatory Compliance",
+    "content": "logging and monitoring practices must comply with all applicable laws, regulations, and industry standards (e.g., gdpr, ccpa, pci dss, hipaa). log data may be used for legal or regulatory purposes.",
+    "metadata": {
+      "source": "Logging and Monitoring Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.608855"
+    }
+  },
+  {
+    "title": "9. User Responsibilities",
+    "content": "users must not attempt to disable or circumvent logging and monitoring controls. users must report any suspected security incidents or anomalies to the it department ([email address removed]). users must comply with all logging and monitoring procedures.",
+    "metadata": {
+      "source": "Logging and Monitoring Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.608855"
+    }
+  },
+  {
+    "title": "10. IT Department Responsibilities",
+    "content": "implement and maintain logging and monitoring systems. configure logging and monitoring parameters. analyze log data and monitor security events. investigate security incidents. maintain log data integrity and availability. provide training to authorized personnel on logging and monitoring tools. ensure compliance with this policy.",
+    "metadata": {
+      "source": "Logging and Monitoring Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.608855"
+    }
+  },
+  {
+    "title": "11. Training and Awareness",
+    "content": "authorized personnel will receive training on logging and monitoring tools and procedures. regular security awareness training will be provided to all users regarding logging and monitoring practices.",
+    "metadata": {
+      "source": "Logging and Monitoring Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.608855"
+    }
+  },
+  {
+    "title": "12. Policy Review and Updates",
+    "content": "this policy will be reviewed and updated annually or as needed to reflect changes in technology, threats, and regulations. any updates to this policy will be communicated to all users.",
+    "metadata": {
+      "source": "Logging and Monitoring Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.608855"
+    }
+  },
+  {
+    "title": "13. Monitoring and Enforcement",
+    "content": "the it department will conduct regular audits to ensure compliance with this policy. violations of this policy may result in disciplinary action, up to and including termination of employment or contract.",
+    "metadata": {
+      "source": "Logging and Monitoring Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.608855"
+    }
+  },
+  {
+    "title": "14. Acknowledgement",
+    "content": "by accessing company systems, applications, and networks, users acknowledge that they have read, understood, and agree to comply with this logging and monitoring policy. this logging and monitoring policy is designed to ensure the security and integrity of us solutions pvt ltd.'s information assets. by adhering to these guidelines, users contribute to a secure and compliant work environment.",
+    "metadata": {
+      "source": "Logging and Monitoring Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.608855"
+    }
+  },
+  {
+    "title": "1. Introduction",
+    "content": "us solutions pvt ltd. recognizes that data loss and system disruptions can significantly impact business operations. this backup and disaster recovery policy outlines the procedures for backing up critical data and recovering systems in the event of a disaster or other disruptive event. all employees, contractors, and authorized users (\"users\") are required to adhere to this policy.",
+    "metadata": {
+      "source": "Backup and Disaster Recovery Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.624883"
+    }
+  },
+  {
+    "title": "2. Purpose",
+    "content": "the purpose of this policy is to: establish a comprehensive backup and disaster recovery plan. minimize data loss and system downtime. ensure business continuity in the event of a disaster. facilitate compliance with applicable laws, regulations, and industry standards. define the responsibilities of personnel involved in backup and recovery operations.",
+    "metadata": {
+      "source": "Backup and Disaster Recovery Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.624883"
+    }
+  },
+  {
+    "title": "3. Scope",
+    "content": "this policy applies to all critical systems, applications, and data owned, managed, or accessed by us solutions pvt ltd., including: servers and databases. workstations and laptops. cloud-based services. network devices. critical applications. all data deemed critical to business operations.",
+    "metadata": {
+      "source": "Backup and Disaster Recovery Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.624883"
+    }
+  },
+  {
+    "title": "4. Backup Requirements",
+    "content": "backup frequency: critical data must be backed up regularly, based on its criticality and recovery time objective (rto). daily backups for highly critical data. weekly backups for moderately critical data. monthly backups for less critical data. backup media: backups must be stored on reliable media, such as disk, tape, or cloud-based storage. backup retention: backups must be retained for a defined period, based on legal, regulatory, and business requirements. backup testing: backups must be tested regularly to ensure their integrity and recoverability. offsite backups: offsite backups must be maintained to protect against physical disasters. encryption: backups containing sensitive data must be encrypted. backup verification: automated or manual verification of backups must be done, to ensure backups completed successfully.",
+    "metadata": {
+      "source": "Backup and Disaster Recovery Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.624883"
+    }
+  },
+  {
+    "title": "5. Disaster Recovery Requirements",
+    "content": "recovery time objective (rto): the rto for critical systems must be defined and documented. recovery point objective (rpo): the rpo for critical data must be defined and documented. disaster recovery plan (drp): a comprehensive drp must be developed and maintained. drp testing: the drp must be tested regularly to ensure its effectiveness. alternate site: an alternate site must be identified for recovering critical systems and data. communication plan: a communication plan must be developed for notifying stakeholders during a disaster. system prioritization: a system prioritization list must be created and maintained, for determining which systems are recovered first.",
+    "metadata": {
+      "source": "Backup and Disaster Recovery Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.624883"
+    }
+  },
+  {
+    "title": "6. Responsibilities",
+    "content": "it department: implement and maintain backup and disaster recovery systems. develop and test the drp. manage backup media and offsite backups. perform data recovery operations. ensure compliance with this policy. data owners: identify critical data and systems. define rto and rpo requirements. approve backup and recovery procedures. all users: report any data loss or system disruptions. comply with backup and recovery procedures. avoid actions that may compromise data integrity.",
+    "metadata": {
+      "source": "Backup and Disaster Recovery Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.624883"
+    }
+  },
+  {
+    "title": "7. Disaster Recovery Plan (DRP) Components",
+    "content": "the drp must include the following components: emergency response procedures: procedures for responding to immediate threats. system recovery procedures: procedures for recovering critical systems and applications. data recovery procedures: procedures for restoring data from backups. communication plan: procedures for communicating with stakeholders. alternate site procedures: procedures for relocating operations to an alternate site. plan maintenance: procedures for updating and testing the drp.",
+    "metadata": {
+      "source": "Backup and Disaster Recovery Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.624883"
+    }
+  },
+  {
+    "title": "8. Legal and Regulatory Compliance",
+    "content": "backup and disaster recovery practices must comply with all applicable laws, regulations, and industry standards (e.g., gdpr, ccpa, hipaa). data retention policies must be consistent with legal and regulatory requirements.",
+    "metadata": {
+      "source": "Backup and Disaster Recovery Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.624883"
+    }
+  },
+  {
+    "title": "9. Training and Awareness",
+    "content": "authorized personnel will receive training on backup and disaster recovery procedures. regular security awareness training will be provided to all users regarding data protection.",
+    "metadata": {
+      "source": "Backup and Disaster Recovery Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.624883"
+    }
+  },
+  {
+    "title": "10. Policy Review and Updates",
+    "content": "this policy will be reviewed and updated annually or as needed to reflect changes in technology, threats, and regulations. any updates to this policy will be communicated to all users.",
+    "metadata": {
+      "source": "Backup and Disaster Recovery Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.624883"
+    }
+  },
+  {
+    "title": "11. Monitoring and Enforcement",
+    "content": "the it department will conduct regular audits to ensure compliance with this policy. violations of this policy may result in disciplinary action, up to and including termination of employment or contract.",
+    "metadata": {
+      "source": "Backup and Disaster Recovery Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.624883"
+    }
+  },
+  {
+    "title": "12. Acknowledgement",
+    "content": "by accessing company systems, applications, and data, users acknowledge that they have read, understood, and agree to comply with this backup and disaster recovery policy. this backup and disaster recovery policy is designed to ensure the resilience of us solutions pvt ltd.'s operations in the event of a disaster or other disruptive event. by adhering to these guidelines, users contribute to the overall security and continuity of the company.",
+    "metadata": {
+      "source": "Backup and Disaster Recovery Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.624883"
+    }
+  },
+  {
+    "title": "1. Introduction",
+    "content": "us solutions pvt ltd. recognizes that robust access control mechanisms are essential for protecting the confidentiality, integrity, and availability of our information assets. this access control policy outlines the principles and procedures for granting, managing, and revoking access to company systems, applications, and data. all employees, contractors, and authorized users (\"users\") are required to adhere to this policy to ensure the security of our information resources.",
+    "metadata": {
+      "source": "Access Control Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.641318"
+    }
+  },
+  {
+    "title": "2. Purpose",
+    "content": "the purpose of this policy is to: establish a standardized approach to access control. ensure that access is granted on a need-to-know and least-privilege basis. protect sensitive information from unauthorized access and disclosure. facilitate compliance with applicable laws and regulations. define the responsibilities of access requestors, approvers, and administrators.",
+    "metadata": {
+      "source": "Access Control Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.641318"
+    }
+  },
+  {
+    "title": "3. Scope",
+    "content": "this policy applies to all users who access company systems, applications, and data, including but not limited to: network accounts and servers. company applications (e.g., crm, erp). databases and file shares. cloud-based services. physical access to company facilities. remote access to company resources.",
+    "metadata": {
+      "source": "Access Control Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.641318"
+    }
+  },
+  {
+    "title": "4. Principles of Access Control",
+    "content": "least privilege: users should be granted only the minimum level of access necessary to perform their job functions. need-to-know: access to sensitive information should be granted only to those who have a legitimate business need. separation of duties: responsibilities should be divided among multiple individuals to prevent fraud and errors. regular reviews: access rights should be reviewed periodically to ensure they remain appropriate. auditing: access logs should be maintained and regularly audited to detect unauthorized access.",
+    "metadata": {
+      "source": "Access Control Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.641318"
+    }
+  },
+  {
+    "title": "5. Access Request and Approval Process",
+    "content": "access request: users must submit a formal access request through the company's designated system or process. approval: access requests must be approved by the user's manager and, if applicable, the data owner or system administrator. documentation: all access requests and approvals must be documented and retained for audit purposes. temporary access: temporary access can be granted for specific projects or tasks, with a defined expiration date.",
+    "metadata": {
+      "source": "Access Control Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.641318"
+    }
+  },
+  {
+    "title": "6. User Account Management",
+    "content": "account creation: user accounts should be created only after receiving proper authorization. account naming conventions: user accounts must adhere to the company's standardized naming conventions. password management: user passwords must comply with the company's password policy. account termination: user accounts must be disabled or deleted immediately upon termination of employment or contract.",
+    "metadata": {
+      "source": "Access Control Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.641318"
+    }
+  },
+  {
+    "title": "7. Access Control Mechanisms",
+    "content": "role-based access control (rbac): access rights should be assigned based on user roles and responsibilities. attribute-based access control (abac): access rights can be granted based on user attributes, resource attributes, and environmental conditions. multi-factor authentication (mfa): mfa is mandatory for access to sensitive systems and applications. physical access control: physical access to company facilities must be controlled through access cards, keypads, or other security measures. remote access control: remote access to company resources must be secured through vpns and mfa.",
+    "metadata": {
+      "source": "Access Control Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.641318"
+    }
+  },
+  {
+    "title": "8. Access Reviews and Audits",
+    "content": "periodic reviews: access rights should be reviewed at least annually to ensure they remain appropriate. audit logs: access logs should be maintained and regularly audited to detect unauthorized access. incident response: any suspected security incidents related to access control must be reported immediately to the it department.",
+    "metadata": {
+      "source": "Access Control Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.641318"
+    }
+  },
+  {
+    "title": "9. Responsibilities",
+    "content": "users: request access through the designated process. protect their access credentials. report any unauthorized access attempts. comply with this policy. managers: approve access requests for their team members. ensure that access rights are appropriate for job functions. report any security concerns to the it department. it department: implement and maintain access control systems. manage user accounts and access rights. conduct regular access reviews and audits. investigate and respond to security incidents. data owners: determine access requirements for their data. approve access requests for their data. review access rights periodically.",
+    "metadata": {
+      "source": "Access Control Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.641318"
+    }
+  },
+  {
+    "title": "10. Legal and Regulatory Compliance",
+    "content": "this policy complies with all applicable data privacy laws and regulations (e.g., gdpr, ccpa). access control measures must be consistent with legal and regulatory requirements.",
+    "metadata": {
+      "source": "Access Control Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.641318"
+    }
+  },
+  {
+    "title": "11. Training and Awareness",
+    "content": "all users will receive training on this access control policy. regular security awareness training will be provided to reinforce access control best practices.",
+    "metadata": {
+      "source": "Access Control Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.641318"
+    }
+  },
+  {
+    "title": "12. Policy Review and Updates",
+    "content": "this policy will be reviewed and updated annually or as needed to reflect changes in technology, threats, and regulations. any updates to this policy will be communicated to all users.",
+    "metadata": {
+      "source": "Access Control Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.641318"
+    }
+  },
+  {
+    "title": "13. Acknowledgement",
+    "content": "by accessing company systems, applications, and data, users acknowledge that they have read, understood, and agree to comply with this access control policy. this access control policy is designed to protect us solutions pvt ltd.'s information assets and ensure compliance with applicable laws and regulations. by adhering to these guidelines, users contribute to a secure and compliant work environment.",
+    "metadata": {
+      "source": "Access Control Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.641318"
+    }
+  },
+  {
+    "title": "1. Introduction",
+    "content": "us solutions pvt ltd. relies heavily on its network infrastructure for daily operations. this network security policy establishes the guidelines and procedures for protecting our network from unauthorized access, disruptions, and data breaches. all employees, contractors, and authorized users (\"users\") are required to adhere to this policy to ensure the security and availability of our network resources.",
+    "metadata": {
+      "source": "Network Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.655619"
+    }
+  },
+  {
+    "title": "2. Purpose",
+    "content": "the purpose of this policy is to: establish a robust framework for network security. protect company network infrastructure from internal and external threats. ensure the confidentiality, integrity, and availability of network data. facilitate compliance with applicable laws and regulations. define the responsibilities of network administrators and users.",
+    "metadata": {
+      "source": "Network Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.655619"
+    }
+  },
+  {
+    "title": "3. Scope",
+    "content": "this policy applies to all network devices, connections, and services managed by us solutions pvt ltd., including: wired and wireless networks. network servers and routers. firewalls and intrusion detection/prevention systems. virtual private networks (vpns). cloud-based network services. remote access connections. all devices that connect to the company network.",
+    "metadata": {
+      "source": "Network Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.655619"
+    }
+  },
+  {
+    "title": "4. Network Access Control",
+    "content": "principle of least privilege: network access should be granted only to those who require it for their job functions. user authentication: strong authentication mechanisms, including passwords and multi-factor authentication (mfa), must be used to access network resources. access control lists (acls): acls should be implemented to restrict network traffic based on source and destination ip addresses, ports, and protocols. network segmentation: the network should be segmented into zones to isolate sensitive data and systems. wireless security: wireless networks must be secured with strong encryption (wpa2/wpa3) and access controls.",
+    "metadata": {
+      "source": "Network Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.655619"
+    }
+  },
+  {
+    "title": "5. Network Security Devices and Systems",
+    "content": "firewalls: firewalls must be configured to filter network traffic and prevent unauthorized access. intrusion detection/prevention systems (ids/ips): ids/ips must be implemented to detect and prevent network intrusions. vpns: vpns must be used for secure remote access to company network resources. security information and event management (siem): siem systems must be used to collect and analyze network logs for security incidents. network monitoring tools: network monitoring tools must be used to track network performance and detect anomalies.",
+    "metadata": {
+      "source": "Network Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.655619"
+    }
+  },
+  {
+    "title": "6. Network Maintenance and Management",
+    "content": "patch management: network devices and systems must be patched regularly to address security vulnerabilities. configuration management: network configurations must be documented and managed to ensure consistency and security. network backups: network configurations and data must be backed up regularly to facilitate recovery. network documentation: accurate and up to date network documentation must be maintained. regular security assessments: vulnerability scans and penetration tests must be conducted regularly to identify and mitigate security risks.",
+    "metadata": {
+      "source": "Network Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.655619"
+    }
+  },
+  {
+    "title": "7. Remote Access Security",
+    "content": "vpn requirement: all remote access to the company network must be conducted through a company-provided vpn. mfa requirement: mfa is mandatory for all remote access connections. device security: remote devices must comply with the company's byod or remote work security policy.",
+    "metadata": {
+      "source": "Network Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.655619"
+    }
+  },
+  {
+    "title": "8. Network Usage Guidelines",
+    "content": "acceptable use: users must adhere to the company's acceptable use policy when using network resources. prohibited activities: users must not engage in illegal or unauthorized activities, such as hacking, distributing malware, or accessing unauthorized websites. data transfers: data transfers must be conducted securely, using encrypted protocols and approved applications.",
+    "metadata": {
+      "source": "Network Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.655619"
+    }
+  },
+  {
+    "title": "9. Incident Response",
+    "content": "incident reporting: users must immediately report any suspected network security incidents to the it department ([email address removed]). incident response plan: the it department must have an incident response plan to address network security incidents. forensic analysis: forensic analysis may be conducted to investigate network security incidents.",
+    "metadata": {
+      "source": "Network Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.655619"
+    }
+  },
+  {
+    "title": "10. Legal and Regulatory Compliance",
+    "content": "this policy complies with all applicable data privacy laws and regulations (e.g., gdpr, ccpa). network security measures must be consistent with legal and regulatory requirements.",
+    "metadata": {
+      "source": "Network Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.655619"
+    }
+  },
+  {
+    "title": "11. Training and Awareness",
+    "content": "all users will receive training on this network security policy. regular security awareness training will be provided to reinforce network security best practices.",
+    "metadata": {
+      "source": "Network Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.655619"
+    }
+  },
+  {
+    "title": "12. Policy Review and Updates",
+    "content": "this policy will be reviewed and updated annually or as needed to reflect changes in technology, threats, and regulations. any updates to this policy will be communicated to all users.",
+    "metadata": {
+      "source": "Network Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.655619"
+    }
+  },
+  {
+    "title": "13. Acknowledgement",
+    "content": "by accessing company network resources, users acknowledge that they have read, understood, and agree to comply with this network security policy. this network security policy is designed to protect us solutions pvt ltd.'s network infrastructure and data. by adhering to these guidelines, users contribute to a secure and reliable network environment.",
+    "metadata": {
+      "source": "Network Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.655619"
+    }
+  },
+  {
+    "title": "1. Introduction",
+    "content": "us solutions pvt ltd. recognizes the increasing prevalence of personal mobile devices and the potential benefits of allowing employees to use them for business purposes. this bring your own device (byod) policy outlines the guidelines and requirements for employees who wish to use their personal devices (smartphones, tablets, laptops) to access company resources. this policy aims to balance the convenience of byod with the need to maintain the security and confidentiality of company data.",
+    "metadata": {
+      "source": "Bring Your Own Device (BYOD) Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.674261"
+    }
+  },
+  {
+    "title": "2. Purpose",
+    "content": "the purpose of this byod policy is to: establish clear guidelines for the use of personal devices for business purposes. protect company data from unauthorized access and disclosure. ensure compliance with applicable laws and regulations. define the responsibilities of both the company and the employee regarding byod. provide a secure and efficient environment for accessing company resources.",
+    "metadata": {
+      "source": "Bring Your Own Device (BYOD) Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.674261"
+    }
+  },
+  {
+    "title": "3. Scope",
+    "content": "this policy applies to all employees of us solutions pvt ltd. who wish to use their personal devices to access company resources, including but not limited to: email. company applications. network drives. cloud-based services. vpn access.",
+    "metadata": {
+      "source": "Bring Your Own Device (BYOD) Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.674261"
+    }
+  },
+  {
+    "title": "4. Device Eligibility and Requirements",
+    "content": "supported devices: the it department maintains a list of supported devices and operating systems. devices must meet minimum security and compatibility requirements. operating systems: devices must run a current and supported operating system (e.g., ios 15+, android 12+, windows 10+). security requirements: devices must have a strong passcode or biometric authentication enabled. devices must have up-to-date antivirus and anti-malware software installed (if applicable). devices must have the latest security patches installed. devices must have full disk encryption enabled. company-managed software: the company may require the installation of company-managed software, such as mobile device management (mdm) software, to enforce security policies and manage access to company resources.",
+    "metadata": {
+      "source": "Bring Your Own Device (BYOD) Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.674261"
+    }
+  },
+  {
+    "title": "5. Employee Responsibilities",
+    "content": "device security: employees are responsible for maintaining the security of their personal devices. data protection: employees must protect company data stored on their devices from unauthorized access, loss, or theft. compliance: employees must comply with all company policies and applicable laws and regulations. reporting incidents: employees must immediately report any security incidents, such as lost or stolen devices or suspected data breaches, to the it department ([email address removed]). acceptable use: devices must be used in a professional manner, and must not violate the companys acceptable use policy. company data separation: employees must make reasonable effort to keep company data seperate from personal data.",
+    "metadata": {
+      "source": "Bring Your Own Device (BYOD) Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.674261"
+    }
+  },
+  {
+    "title": "6. Company Responsibilities",
+    "content": "mdm implementation: the company may implement mdm software to manage and secure company data on personal devices. data wiping: the company reserves the right to remotely wipe company data from a device in the event of a security incident, termination of employment, or policy violation. technical support: the it department will provide limited technical support for byod devices. policy enforcement: the company will enforce this byod policy and take appropriate disciplinary action for violations. data access: the company will only access the data that is related to company business.",
+    "metadata": {
+      "source": "Bring Your Own Device (BYOD) Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.674261"
+    }
+  },
+  {
+    "title": "7. Mobile Device Management (MDM)",
+    "content": "purpose: mdm software allows the company to manage and secure company data on personal devices. capabilities: mdm may include features such as remote wiping, passcode enforcement, application management, and location tracking. employee consent: employees must consent to the installation and use of mdm software. privacy: the company will respect employee privacy and will only use mdm to manage company data.",
+    "metadata": {
+      "source": "Bring Your Own Device (BYOD) Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.674261"
+    }
+  },
+  {
+    "title": "8. Data Access and Security",
+    "content": "vpn access: employees must use a company-provided vpn to access company resources over unsecured networks. data encryption: company data stored on personal devices must be encrypted. application security: employees must use company-approved applications to access company resources. data backup: employees are responsible for backing up their personal data. the company will back up company data as needed.",
+    "metadata": {
+      "source": "Bring Your Own Device (BYOD) Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.674261"
+    }
+  },
+  {
+    "title": "9. Legal and Regulatory Compliance",
+    "content": "data privacy: employees must comply with all applicable data privacy laws and regulations. intellectual property: employees must respect the company's intellectual property rights. legal holds: the company may require access to employee devices for legal or regulatory purposes.",
+    "metadata": {
+      "source": "Bring Your Own Device (BYOD) Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.674261"
+    }
+  },
+  {
+    "title": "10. Termination of Employment",
+    "content": "data removal: upon termination of employment, employees must remove all company data from their personal devices. mdm removal: the it department will remove mdm software from employee devices. device return: if any company owned hardware or software was placed on the device, it must be returned.",
+    "metadata": {
+      "source": "Bring Your Own Device (BYOD) Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.674261"
+    }
+  },
+  {
+    "title": "11. Policy Review and Updates",
+    "content": "this byod policy will be reviewed and updated bi-annually or as needed to reflect changes in technology, threats, and regulations. any updates to this policy will be communicated to all employees.",
+    "metadata": {
+      "source": "Bring Your Own Device (BYOD) Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.674261"
+    }
+  },
+  {
+    "title": "12. Disclaimer",
+    "content": "the company is not responsible for any damage or loss of personal data on employee devices. the company reserves the right to modify or terminate the byod program at any time.",
+    "metadata": {
+      "source": "Bring Your Own Device (BYOD) Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.674261"
+    }
+  },
+  {
+    "title": "13. Acknowledgement",
+    "content": "by accessing company resources using their personal devices, employees acknowledge that they have read, understood, and agree to comply with this byod policy. this byod policy is designed to provide a secure and efficient environment for employees to use their personal devices for business purposes. by adhering to these guidelines, employees contribute to the overall security and success of us solutions pvt ltd.",
+    "metadata": {
+      "source": "Bring Your Own Device (BYOD) Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.674261"
+    }
+  },
+  {
+    "title": "1. Introduction",
+    "content": "us solutions pvt ltd. relies on a secure and stable software environment to maintain productivity and protect sensitive data. this software installation and update policy establishes the guidelines and procedures for installing, updating, and managing software on company devices and systems. all employees, contractors, and authorized users (\"users\") are required to adhere to this policy.",
+    "metadata": {
+      "source": "Software Installation and Update Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.695241"
+    }
+  },
+  {
+    "title": "2. Purpose",
+    "content": "the purpose of this policy is to: establish a controlled and secure software environment. prevent the installation of unauthorized or malicious software. ensure that software is updated regularly to address security vulnerabilities. maintain software license compliance. minimize the risk of system instability and data loss.",
+    "metadata": {
+      "source": "Software Installation and Update Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.695241"
+    }
+  },
+  {
+    "title": "3. Scope",
+    "content": "this policy applies to all software installed or used on company-owned or managed devices and systems, including: workstations and laptops. servers and virtual machines. mobile devices. cloud-based applications and services. any software used to access company resources.",
+    "metadata": {
+      "source": "Software Installation and Update Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.695241"
+    }
+  },
+  {
+    "title": "4. Software Installation Guidelines",
+    "content": "authorized software: only software approved by the it department may be installed on company devices. a list of approved software will be maintained and made available to users. users must submit a request to the it department for any software not on the approved list. installation procedures: software installations must be performed by the it department or through company-approved software distribution tools. users must not install software from unauthorized sources (e.g., personal downloads, untrusted websites). software must be installed in accordance with vendor best practices and company security guidelines. license compliance: users must comply with all software license agreements. the it department will maintain records of software licenses and ensure compliance. unauthorized software copying or distribution is strictly prohibited. testing: all new software installations must be tested in a non-production environment before deployment to production systems.",
+    "metadata": {
+      "source": "Software Installation and Update Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.695241"
+    }
+  },
+  {
+    "title": "5. Software Update Guidelines",
+    "content": "automatic updates: automatic updates should be enabled for operating systems and applications whenever possible. the it department will manage automatic updates for critical systems and applications. patch management: security patches must be applied promptly to address known vulnerabilities. the it department will prioritize and schedule patch deployments. users must not disable or delay patch installations. update testing: software updates must be tested in a non-production environment before deployment to production systems. critical updates may be deployed immediately in response to security threats. vendor updates: software must be updated according to vendor recommendations and timelines.",
+    "metadata": {
+      "source": "Software Installation and Update Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.695241"
+    }
+  },
+  {
+    "title": "6. Prohibited Software",
+    "content": "the following types of software are strictly prohibited: unauthorized file-sharing applications. peer-to-peer (p2p) software. software from untrusted sources. software that violates company security policies. software that may compromise company data. the it department will maintain a list of prohibited software.",
+    "metadata": {
+      "source": "Software Installation and Update Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.695241"
+    }
+  },
+  {
+    "title": "7. User Responsibilities",
+    "content": "compliance: users must comply with this software installation and update policy. reporting: users must report any suspected software vulnerabilities or security incidents to the it department ([email address removed]). cooperation: users must cooperate with the it department during software installations and updates. awareness: users must attend security awareness training related to software security.",
+    "metadata": {
+      "source": "Software Installation and Update Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.695241"
+    }
+  },
+  {
+    "title": "8. IT Department Responsibilities",
+    "content": "software management: the it department is responsible for managing software installations and updates. security: the it department is responsible for ensuring the security of the software environment. license compliance: the it department is responsible for maintaining software license compliance. support: the it department will provide support for software-related issues. policy enforcement: the it department will enforce this software installation and update policy.",
+    "metadata": {
+      "source": "Software Installation and Update Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.695241"
+    }
+  },
+  {
+    "title": "9. Legal and Regulatory Compliance",
+    "content": "this policy complies with all applicable software licensing agreements and regulations. software installations and updates must be consistent with legal and regulatory requirements.",
+    "metadata": {
+      "source": "Software Installation and Update Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.695241"
+    }
+  },
+  {
+    "title": "10. Training and Awareness",
+    "content": "all users will receive training on this software installation and update policy. regular security awareness training will be provided to reinforce software security best practices.",
+    "metadata": {
+      "source": "Software Installation and Update Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.695241"
+    }
+  },
+  {
+    "title": "11. Policy Review and Updates",
+    "content": "this policy will be reviewed and updated annually or as needed to reflect changes in technology, threats, and regulations. any updates to this policy will be communicated to all users.",
+    "metadata": {
+      "source": "Software Installation and Update Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.695241"
+    }
+  },
+  {
+    "title": "12. Monitoring and Enforcement",
+    "content": "the it department will conduct regular audits to ensure compliance with this policy. violations of this policy may result in disciplinary action, up to and including termination of employment or contract.",
+    "metadata": {
+      "source": "Software Installation and Update Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.695241"
+    }
+  },
+  {
+    "title": "13. Acknowledgement",
+    "content": "by using company devices and systems, users acknowledge that they have read, understood, and agree to comply with this software installation and update policy. this software installation and update policy is designed to maintain a secure and stable software environment at us solutions pvt ltd. by adhering to these guidelines, users contribute to the overall security and productivity of the company.",
+    "metadata": {
+      "source": "Software Installation and Update Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.695241"
+    }
+  },
+  {
+    "title": "1. Introduction",
+    "content": "us solutions pvt ltd. recognizes the increasing prevalence of remote work and the need to ensure the security of company data and systems when employees work from locations outside of the traditional office environment. this remote work security policy outlines the guidelines and requirements for employees working remotely, aiming to maintain a secure and productive work environment while protecting sensitive information.",
+    "metadata": {
+      "source": " Remote Work Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.717989"
+    }
+  },
+  {
+    "title": "2. Purpose",
+    "content": "the purpose of this policy is to: establish security standards for remote work environments. protect company data and systems from unauthorized access and cyber threats. ensure compliance with applicable laws and regulations. define the responsibilities of employees working remotely. provide guidance on secure remote access and data handling.",
+    "metadata": {
+      "source": " Remote Work Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.717989"
+    }
+  },
+  {
+    "title": "3. Scope",
+    "content": "this policy applies to all employees, contractors, and authorized users of us solutions pvt ltd. who work remotely, whether full-time or part-time, from any location outside of the company's physical offices. this includes, but is not limited to: home offices. public locations (e.g., cafes, libraries). travel locations.",
+    "metadata": {
+      "source": " Remote Work Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.717989"
+    }
+  },
+  {
+    "title": "4. Remote Access Requirements",
+    "content": "company-provided equipment: whenever possible, employees should use company-provided laptops, desktops, and mobile devices for remote work. secure network connections: employees must use a company-provided virtual private network (vpn) when accessing company resources from unsecured networks (e.g., public wi-fi). employees should ensure their home wi-fi networks are secured with strong passwords (wpa2/wpa3) and regularly updated firmware. avoid using public computers for company work. multi-factor authentication (mfa): mfa is mandatory for all remote access to company systems and applications. software updates: employees must ensure their operating systems, applications, and antivirus software are up-to-date with the latest security patches.",
+    "metadata": {
+      "source": " Remote Work Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.717989"
+    }
+  },
+  {
+    "title": "5. Data Handling and Security",
+    "content": "data classification: employees must adhere to the company's data classification policy when handling sensitive information. data encryption: company data stored on remote devices must be encrypted. physical security: employees must secure their devices and documents to prevent unauthorized access. devices should not be left unattended in public places. sensitive documents should be stored securely and shredded when no longer needed. data backups: employees must ensure that company data is regularly backed up according to the company's backup policy. data transfers: data must only be transfered using company approved methods.",
+    "metadata": {
+      "source": " Remote Work Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.717989"
+    }
+  },
+  {
+    "title": "6. Communication and Collaboration",
+    "content": "secure communication channels: employees must use company-approved communication and collaboration tools (e.g., microsoft teams, zoom) for business-related communications. email security: employees must be vigilant about phishing emails and other email-based threats. video conferencing security: employees must ensure that video conferencing sessions are secured with passwords and that sensitive information is not shared in open sessions.",
+    "metadata": {
+      "source": " Remote Work Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.717989"
+    }
+  },
+  {
+    "title": "7. Remote Work Environment",
+    "content": "dedicated workspace: employees should establish a dedicated workspace that is free from distractions and ensures privacy. ergonomics: employees should maintain proper ergonomics to prevent injuries. physical security of workspace: ensure that work devices and documents are secure from unauthorized access from people in the household.",
+    "metadata": {
+      "source": " Remote Work Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.717989"
+    }
+  },
+  {
+    "title": "8. Employee Responsibilities",
+    "content": "compliance: employees must comply with all company policies and applicable laws and regulations. reporting incidents: employees must immediately report any security incidents, such as lost or stolen devices, suspected data breaches, or phishing attempts, to the it department ([email address removed]). device security: employees are responsible for maintaining the security of their remote work devices. data protection: employees must protect company data from unauthorized access, loss, or theft. training: employees must complete all required security awareness training.",
+    "metadata": {
+      "source": " Remote Work Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.717989"
+    }
+  },
+  {
+    "title": "9. Company Responsibilities",
+    "content": "providing secure tools: the company will provide employees with secure tools and resources for remote work. technical support: the it department will provide technical support for remote work issues. policy enforcement: the company will enforce this remote work security policy and take appropriate disciplinary action for violations. security audits: the company will perform security audits of remote work systems as needed. training and awareness: the company will provide regular security training to remote workers.",
+    "metadata": {
+      "source": " Remote Work Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.717989"
+    }
+  },
+  {
+    "title": "10. Legal and Regulatory Compliance",
+    "content": "data privacy: employees must comply with all applicable data privacy laws and regulations (e.g., gdpr, ccpa). intellectual property: employees must respect the company's intellectual property rights. legal holds: the company may require access to employee devices for legal or regulatory purposes.",
+    "metadata": {
+      "source": " Remote Work Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.717989"
+    }
+  },
+  {
+    "title": "11. Termination of Remote Work or Employment",
+    "content": "data removal: upon termination of remote work or employment, employees must remove all company data from their personal devices and return all company-provided equipment. account deactivation: the it department will deactivate all remote access accounts.",
+    "metadata": {
+      "source": " Remote Work Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.717989"
+    }
+  },
+  {
+    "title": "12. Policy Review and Updates",
+    "content": "this remote work security policy will be reviewed and updated annually or as needed to reflect changes in technology, threats, and regulations. any updates to this policy will be communicated to all employees.",
+    "metadata": {
+      "source": " Remote Work Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.717989"
+    }
+  },
+  {
+    "title": "13. Acknowledgement",
+    "content": "by engaging in remote work, employees acknowledge that they have read, understood, and agree to comply with this remote work security policy. this remote work security policy is essential for maintaining the security of us solutions pvt ltd.'s data and systems in a remote work environment. by adhering to these guidelines, employees contribute to a secure and productive work experience.",
+    "metadata": {
+      "source": " Remote Work Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.717989"
+    }
+  },
+  {
+    "title": "1. Introduction",
+    "content": "at us solutions pvt ltd., the security of our information assets is paramount. passwords serve as a critical first line of defense against unauthorized access. this password policy establishes the minimum standards and guidelines for creating, managing, and protecting passwords across all company systems and applications. all employees, contractors, and authorized users (\"users\") are required to adhere to this policy to ensure the confidentiality, integrity, and availability of our data.",
+    "metadata": {
+      "source": "Password Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.736209"
+    }
+  },
+  {
+    "title": "2. Purpose",
+    "content": "the purpose of this policy is to: establish a robust framework for password management. minimize the risk of unauthorized access to company systems and data. promote a culture of security awareness among users. ensure compliance with industry best practices and applicable regulations.",
+    "metadata": {
+      "source": "Password Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.736209"
+    }
+  },
+  {
+    "title": "3. Scope",
+    "content": "this policy applies to all users who access company it resources, including but not limited to: company workstations and laptops. network accounts and servers. email and messaging systems. cloud-based applications and services. mobile devices used for company business. vpn and remote access systems. all other systems requiring authentication.",
+    "metadata": {
+      "source": "Password Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.736209"
+    }
+  },
+  {
+    "title": "4. Password Requirements",
+    "content": "all passwords must adhere to the following minimum requirements: length: passwords must be a minimum of 12 characters. complexity: passwords must include a combination of: uppercase letters (a-z). lowercase letters (a-z). numbers (0-9). special characters (!@#$%^&*()-_=+[{]};:'\",<.>/?). uniqueness: passwords must not be reused across multiple systems or accounts. avoidance of personal information: passwords must not contain easily guessable information, such as: usernames, employee ids, or company names. personal names, dates of birth, or addresses. common words or phrases found in dictionaries. password history: users must not reuse any of their previous 5 passwords.",
+    "metadata": {
+      "source": "Password Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.736209"
+    }
+  },
+  {
+    "title": "5. Password Management",
+    "content": "password changes: users are required to change their passwords at least every 90 days. password storage: passwords must never be written down or stored in plain text. users are encouraged to use a reputable password manager. password sharing: passwords must not be shared with anyone, including colleagues or it support personnel, unless explicitly authorized by senior management for a specific, documented business need. account lockout: after a specified number of failed login attempts (e.g., 5), accounts will be locked for a defined period (e.g., 30 minutes). password recovery: users must utilize the company's designated password recovery procedures. it support will verify the identity of the user before resetting passwords.",
+    "metadata": {
+      "source": "Password Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.736209"
+    }
+  },
+  {
+    "title": "6. Multi-Factor Authentication (MFA)",
+    "content": "mfa is mandatory for all access to sensitive systems and applications, including but not limited to vpn, email, and cloud services. users must enroll in the company's approved mfa solution. users are responsible for maintaining the security of their mfa devices and credentials.",
+    "metadata": {
+      "source": "Password Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.736209"
+    }
+  },
+  {
+    "title": "7. Responsibilities",
+    "content": "users: comply with this password policy. create and maintain strong, unique passwords. protect their passwords from unauthorized access. report any suspected password compromises to the it department immediately. enroll and use mfa as required. it department: enforce this password policy. provide guidance and support to users on password management. maintain and monitor password security systems. investigate and respond to password-related security incidents. ensure mfa systems are running and available. managers: ensure that their teams are aware of and comply with this password policy. report any password-related security concerns to the it department. support the it departments security initiatives.",
+    "metadata": {
+      "source": "Password Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.736209"
+    }
+  },
+  {
+    "title": "8. Policy Enforcement",
+    "content": "failure to comply with this password policy may result in disciplinary action, up to and including termination of employment or contract. the it department will conduct regular audits to ensure compliance with this policy. any suspected password compromises will be investigated thoroughly.",
+    "metadata": {
+      "source": "Password Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.736209"
+    }
+  },
+  {
+    "title": "9. Exceptions",
+    "content": "any exceptions to this policy must be approved in writing by the chief information security officer (ciso) or designated authority. exceptions will be granted only for specific, documented business needs and will be subject to appropriate security controls.",
+    "metadata": {
+      "source": "Password Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.736209"
+    }
+  },
+  {
+    "title": "10. Training and Awareness",
+    "content": "all new users will receive training on this password policy as part of their onboarding process. regular security awareness training will be provided to all users to reinforce password security best practices. the it department will provide documentation and resources to assist users with password management.",
+    "metadata": {
+      "source": "Password Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.736209"
+    }
+  },
+  {
+    "title": "11. Review and Updates",
+    "content": "this password policy will be reviewed and updated annually, or more frequently as needed, to reflect changes in technology, threats, and regulations. any updates to this policy will be communicated to all users.",
+    "metadata": {
+      "source": "Password Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.736209"
+    }
+  },
+  {
+    "title": "12. Reporting Security Incidents",
+    "content": "users must immediately report any suspected or actual password compromises or security incidents to the it department. reports should include as much detail as possible, including the date, time, and nature of the incident.",
+    "metadata": {
+      "source": "Password Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.736209"
+    }
+  },
+  {
+    "title": "13. Password Manager Best Practices.",
+    "content": "company recomends the use of a company approved password manager. users are responsible for the master password, and ensuring it meets all policy requirements. users must back up their password manager data. users must not store company passwords in any other location outside of the password manager. this password policy is essential for maintaining the security of us solutions pvt ltd.'s information assets. by adhering to these guidelines, users contribute to a safer and more secure work environment.",
+    "metadata": {
+      "source": "Password Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.736209"
+    }
+  },
+  {
+    "title": "1. Introduction",
+    "content": "us solutions pvt ltd. recognizes that information is a critical asset and that its protection is essential for maintaining business operations, preserving customer trust, and ensuring compliance with legal and regulatory requirements. this information security policy establishes the overarching framework for protecting all information assets within the company. all employees, contractors, and authorized users (\"users\") are required to adhere to this policy.",
+    "metadata": {
+      "source": " Information Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.756999"
+    }
+  },
+  {
+    "title": "2. Purpose",
+    "content": "the purpose of this policy is to: establish a comprehensive information security framework. protect the confidentiality, integrity, and availability of company information assets. minimize the risk of security incidents and data breaches. ensure compliance with applicable laws, regulations, and industry standards. define the responsibilities of all users regarding information security.",
+    "metadata": {
+      "source": " Information Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.756999"
+    }
+  },
+  {
+    "title": "3. Scope",
+    "content": "this policy applies to all information assets owned, processed, or managed by us solutions pvt ltd., including: electronic data (e.g., databases, documents, emails). physical data (e.g., paper documents, hard drives). software and applications. network infrastructure and devices. cloud-based services. all information, regardless of storage or transmission medium.",
+    "metadata": {
+      "source": " Information Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.756999"
+    }
+  },
+  {
+    "title": "4. Information Security Principles",
+    "content": "the following principles guide our information security practices: confidentiality: information should be accessible only to authorized individuals. integrity: information should be accurate and complete, and protected from unauthorized modification. availability: information should be accessible to authorized users when needed. accountability: users are responsible for their actions related to information security. non-repudiation: actions related to information should be traceable to the responsible party. risk management: information security risks should be identified, assessed, and mitigated. compliance: information security practices should comply with all applicable laws and regulations.",
+    "metadata": {
+      "source": " Information Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.756999"
+    }
+  },
+  {
+    "title": "5. Information Security Responsibilities",
+    "content": "management: establish and maintain an effective information security program. provide resources and support for information security initiatives. ensure compliance with this policy. it & infosec department: implement and maintain security controls and technologies. monitor and respond to security incidents. conduct security assessments and audits. provide security awareness training. data owners: classify data based on its sensitivity and criticality. determine access requirements for their data. ensure data is handled in accordance with this policy. all users: comply with this information security policy and related procedures. protect company information from unauthorized access and disclosure. report any suspected security incidents or vulnerabilities. attend security awareness training.",
+    "metadata": {
+      "source": " Information Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.756999"
+    }
+  },
+  {
+    "title": "6. Information Security Controls",
+    "content": "the company implements various security controls to protect information assets, including: access control: implementing least privilege and need-to-know access. authentication: using strong passwords and multi-factor authentication (mfa). encryption: encrypting sensitive data at rest and in transit. network security: implementing firewalls, intrusion detection systems, and vpns. malware protection: using antivirus and anti-malware software. patch management: regularly patching systems and applications. data backup and recovery: implementing regular data backups and disaster recovery plans. incident response: establishing procedures for handling security incidents. security awareness training: providing regular training to users. physical security: controlling physical access to company facilities.",
+    "metadata": {
+      "source": " Information Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.756999"
+    }
+  },
+  {
+    "title": "7. Data Classification",
+    "content": "all information assets must be classified according to the company's data classification policy. classification levels (e.g., public, internal, confidential, restricted) determine the appropriate security controls.",
+    "metadata": {
+      "source": " Information Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.756999"
+    }
+  },
+  {
+    "title": "8. Risk Management",
+    "content": "the company conducts regular risk assessments to identify and evaluate information security risks. risk mitigation strategies are implemented to reduce the likelihood and impact of security incidents.",
+    "metadata": {
+      "source": " Information Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.756999"
+    }
+  },
+  {
+    "title": "9. Legal and Regulatory Compliance",
+    "content": "the company complies with all applicable laws, regulations, and industry standards, including but not limited to: general data protection regulation (gdpr). california consumer privacy act (ccpa). payment card industry data security standard (pci dss).1 compliance is regularly monitored and audited.",
+    "metadata": {
+      "source": " Information Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.756999"
+    }
+  },
+  {
+    "title": "10. Security Awareness Training",
+    "content": "all users are required to complete security awareness training upon hire and annually thereafter. training covers topics such as password security, phishing awareness, and data handling.",
+    "metadata": {
+      "source": " Information Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.756999"
+    }
+  },
+  {
+    "title": "11. Incident Reporting",
+    "content": "users must immediately report any suspected security incidents to the it & infosec department ([email address removed]). the incident response team (irt) will investigate and respond to incidents according to the incident response policy.",
+    "metadata": {
+      "source": " Information Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.756999"
+    }
+  },
+  {
+    "title": "12. Policy Review and Updates",
+    "content": "this information security policy will be reviewed and updated annually or as needed to reflect changes in technology, threats, and regulations. any updates to this policy will be communicated to all users.",
+    "metadata": {
+      "source": " Information Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.756999"
+    }
+  },
+  {
+    "title": "13. Acknowledgement",
+    "content": "by accessing company information assets, users acknowledge that they have read, understood, and agree to comply with this information security policy. this information security policy is designed to protect us solutions pvt ltd.'s information assets and maintain a secure and compliant work environment. by adhering to these guidelines, users contribute to the overall security and success of the company.",
+    "metadata": {
+      "source": " Information Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.756999"
+    }
+  },
+  {
+    "title": "1. Introduction",
+    "content": "us solutions pvt ltd. recognizes the increasing use of mobile devices for business purposes and the associated security risks. this mobile device management (mdm) policy outlines the guidelines and requirements for managing and securing mobile devices used to access company resources. this policy aims to protect company data and systems while ensuring the productivity of our employees. all employees, contractors, and authorized users (\"users\") are required to adhere to this policy.",
+    "metadata": {
+      "source": "Mobile Device Management (MDM) Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.773533"
+    }
+  },
+  {
+    "title": "2. Purpose",
+    "content": "the purpose of this policy is to: establish a framework for managing and securing mobile devices. protect company data from unauthorized access, loss, or theft. ensure compliance with applicable laws and regulations. define the responsibilities of users and the it department regarding mdm. provide a secure and efficient environment for mobile device usage.",
+    "metadata": {
+      "source": "Mobile Device Management (MDM) Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.773533"
+    }
+  },
+  {
+    "title": "3. Scope",
+    "content": "this policy applies to all mobile devices (smartphones, tablets, laptops) used to access company resources, including: company-owned devices. personal devices used for business purposes (byod). devices used to access company email, applications, and data. devices connected to the company network.",
+    "metadata": {
+      "source": "Mobile Device Management (MDM) Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.773533"
+    }
+  },
+  {
+    "title": "4. MDM Requirements",
+    "content": "mdm software: the company will utilize approved mdm software to manage and secure mobile devices. users are required to install and maintain the mdm software on their devices. mdm software may include features such as remote wiping, passcode enforcement, application management, and location tracking. device eligibility: devices must meet minimum operating system and hardware requirements. the it department maintains a list of supported devices and operating systems. devices must be compatible with the company's mdm software. security requirements: devices must have a strong passcode or biometric authentication enabled. devices must have up-to-date operating systems and security patches. devices must have antivirus and anti-malware software installed (if applicable). devices must have full disk encryption enabled (if applicable). application management: users must use company-approved applications to access company resources. the company may restrict the installation of unauthorized applications. company applications will be managed and updated through the mdm platform.",
+    "metadata": {
+      "source": "Mobile Device Management (MDM) Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.773533"
+    }
+  },
+  {
+    "title": "5. User Responsibilities",
+    "content": "mdm compliance: users must comply with all mdm requirements and guidelines. device security: users are responsible for maintaining the physical and logical security of their devices. data protection: users must protect company data stored on their devices from unauthorized access, loss, or theft. reporting incidents: users must immediately report any security incidents, such as lost or stolen devices or suspected data breaches, to the it department ([email address removed]). acceptable use: users must use their devices in accordance with the company's acceptable use policy. data separation: users must make reasonable effort to keep company data separate from personal data.",
+    "metadata": {
+      "source": "Mobile Device Management (MDM) Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.773533"
+    }
+  },
+  {
+    "title": "6. Company Responsibilities",
+    "content": "mdm implementation: the company will implement and maintain the mdm platform. technical support: the it department will provide technical support for mdm-related issues. policy enforcement: the company will enforce this mdm policy and take appropriate disciplinary action for violations. data wiping: the company reserves the right to remotely wipe company data from a device in the event of a security incident, termination of employment, or policy violation. privacy: the company will respect user privacy and will only use mdm to manage company data. providing secure tools: the company will provide secure tools and applications for use on mobile devices.",
+    "metadata": {
+      "source": "Mobile Device Management (MDM) Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.773533"
+    }
+  },
+  {
+    "title": "7. Data Access and Security",
+    "content": "vpn access: users must use a company-provided vpn to access company resources over unsecured networks. data encryption: company data stored on mobile devices must be encrypted. access control: access to company resources will be controlled through the mdm platform and company access control policies.",
+    "metadata": {
+      "source": "Mobile Device Management (MDM) Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.773533"
+    }
+  },
+  {
+    "title": "8. Legal and Regulatory Compliance",
+    "content": "data privacy: users must comply with all applicable data privacy laws and regulations (e.g., gdpr, ccpa). intellectual property: users must respect the company's intellectual property rights. legal holds: the company may require access to user devices for legal or regulatory purposes.",
+    "metadata": {
+      "source": "Mobile Device Management (MDM) Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.773533"
+    }
+  },
+  {
+    "title": "9. Termination of Employment",
+    "content": "data removal: upon termination of employment, users must remove all company data from their devices. mdm removal: the it department will remove mdm software from user devices. device return: any company-owned devices must be returned to the it department.",
+    "metadata": {
+      "source": "Mobile Device Management (MDM) Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.773533"
+    }
+  },
+  {
+    "title": "10. Policy Review and Updates",
+    "content": "this mdm policy will be reviewed and updated annually or as needed to reflect changes in technology, threats, and regulations. any updates to this policy will be communicated to all users.",
+    "metadata": {
+      "source": "Mobile Device Management (MDM) Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.773533"
+    }
+  },
+  {
+    "title": "11. Acknowledgement",
+    "content": "by using mobile devices to access company resources, users acknowledge that they have read, understood, and agree to comply with this mdm policy. this mdm policy is designed to protect us solutions pvt ltd.'s data and systems while ensuring the productivity of our mobile workforce. by adhering to these guidelines, users contribute to a secure and efficient work environment.",
+    "metadata": {
+      "source": "Mobile Device Management (MDM) Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.773533"
+    }
+  },
+  {
+    "title": "1. Introduction",
+    "content": "us solutions pvt ltd. recognizes that social media and public communication platforms play a significant role in shaping our company\u2019s image and reputation. this policy establishes guidelines for employees regarding their online presence and communications, ensuring that all public-facing activities align with our company\u2019s values and protect our brand. all employees, contractors, and authorized users (\"users\") are required to adhere to this policy.",
+    "metadata": {
+      "source": "Social Media and Public Communication Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.788694"
+    }
+  },
+  {
+    "title": "2. Purpose",
+    "content": "the purpose of this policy is to: establish guidelines for professional and responsible online behavior. protect the company\u2019s reputation and brand integrity. ensure compliance with legal and ethical standards. prevent the unauthorized disclosure of confidential information. promote consistent and accurate communication.",
+    "metadata": {
+      "source": "Social Media and Public Communication Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.788694"
+    }
+  },
+  {
+    "title": "3. Scope",
+    "content": "this policy applies to all users who engage in online activities that may affect us solutions pvt ltd., including: use of social media platforms (e.g., linkedin, twitter, facebook, instagram). participation in online forums and blogs. public speaking engagements and presentations. interactions with media outlets. any online communication that mentions or relates to the company.",
+    "metadata": {
+      "source": "Social Media and Public Communication Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.788694"
+    }
+  },
+  {
+    "title": "4. General Guidelines",
+    "content": "professional conduct: users must maintain a professional and respectful demeanor in all online communications. accuracy: users must ensure that all information shared online is accurate and truthful. confidentiality: users must not disclose confidential company information, including client data, financial information, or proprietary technologies. legal compliance: users must comply with all applicable laws and regulations, including copyright, defamation, and privacy laws. company representation: users must clearly state that their views are their own and do not necessarily represent the views of us solutions pvt ltd., unless explicitly authorized to speak on behalf of the company. brand protection: users must avoid posting content that could damage the company\u2019s brand or reputation.",
+    "metadata": {
+      "source": "Social Media and Public Communication Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.788694"
+    }
+  },
+  {
+    "title": "5. Social Media Usage",
+    "content": "official company accounts: only authorized personnel may manage official company social media accounts. personal accounts: users must exercise caution when posting content that relates to the company on their personal social media accounts. client information: users must not disclose client information or discuss client projects without explicit permission. employee information: users must not disclose employee information or discuss internal company matters without authorization. social media monitoring: the company may monitor social media activity for mentions of the company or its employees.",
+    "metadata": {
+      "source": "Social Media and Public Communication Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.788694"
+    }
+  },
+  {
+    "title": "6. Public Communication",
+    "content": "media inquiries: all media inquiries must be directed to the communications department. public speaking: users must obtain approval from the communications department before accepting public speaking engagements that relate to the company. presentations: presentations and public statements must be reviewed and approved by the communications department. press releases: all press releases must be issued by the communications department. authorized spokespersons: only designated individuals are authorized to speak on behalf of us solutions pvt ltd.",
+    "metadata": {
+      "source": "Social Media and Public Communication Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.788694"
+    }
+  },
+  {
+    "title": "7. Online Forums and Blogs",
+    "content": "professionalism: users must maintain a professional tone when participating in online forums and blogs. company representation: users must clearly state their affiliation with the company and avoid making unauthorized statements. confidentiality: users must not disclose confidential company information or discuss client projects. legal compliance: users must comply with the terms of service of the online forums and blogs they participate in.",
+    "metadata": {
+      "source": "Social Media and Public Communication Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.788694"
+    }
+  },
+  {
+    "title": "8. Monitoring and Enforcement",
+    "content": "the company reserves the right to monitor online activities that may affect the company\u2019s reputation. violations of this policy may result in disciplinary action, up to and including termination of employment or contract. the communications department will address any unauthorized or inappropriate online communication.",
+    "metadata": {
+      "source": "Social Media and Public Communication Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.788694"
+    }
+  },
+  {
+    "title": "9. Training and Awareness",
+    "content": "all users will receive training on this social media and public communication policy. regular updates and reminders will be provided to reinforce policy guidelines.",
+    "metadata": {
+      "source": "Social Media and Public Communication Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.788694"
+    }
+  },
+  {
+    "title": "10. Legal and Ethical Considerations",
+    "content": "users must comply with all applicable laws and regulations, including copyright, defamation, and privacy laws. users must adhere to the company\u2019s ethical standards and values.",
+    "metadata": {
+      "source": "Social Media and Public Communication Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.788694"
+    }
+  },
+  {
+    "title": "11. Policy Review and Updates",
+    "content": "this policy will be reviewed and updated annually or as needed to reflect changes in technology, legal requirements, and company policies. any updates to this policy will be communicated to all users.",
+    "metadata": {
+      "source": "Social Media and Public Communication Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.788694"
+    }
+  },
+  {
+    "title": "12. Acknowledgement",
+    "content": "by engaging in online activities that may affect us solutions pvt ltd., users acknowledge that they have read, understood, and agree to comply with this social media and public communication policy. this social media and public communication policy is designed to protect us solutions pvt ltd.\u2019s reputation and ensure consistent and professional communication. by adhering to these guidelines, users contribute to a positive and responsible online presence.",
+    "metadata": {
+      "source": "Social Media and Public Communication Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.788694"
+    }
+  },
+  {
+    "title": "1. Introduction",
+    "content": "us solutions pvt ltd. recognizes the importance of physical security in protecting our information assets, personnel, and facilities. this physical security policy outlines the guidelines and procedures for securing our premises and preventing unauthorized access. all employees, contractors, and authorized visitors (\"users\") are required to adhere to this policy.",
+    "metadata": {
+      "source": "Physical Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.808639"
+    }
+  },
+  {
+    "title": "2. Purpose",
+    "content": "the purpose of this policy is to: establish a framework for physical security measures. protect company facilities and assets from unauthorized access, theft, and damage. ensure the safety and security of personnel. facilitate compliance with applicable laws and regulations. define the responsibilities of personnel regarding physical security.",
+    "metadata": {
+      "source": "Physical Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.808639"
+    }
+  },
+  {
+    "title": "3. Scope",
+    "content": "this policy applies to all company facilities, including: office buildings. data centers. server rooms. storage areas. any location where company assets are stored or personnel are present.",
+    "metadata": {
+      "source": "Physical Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.808639"
+    }
+  },
+  {
+    "title": "4. Access Control",
+    "content": "access badges: all employees and authorized personnel must wear company-issued access badges at all times. access badges must be used to access restricted areas. lost or stolen access badges must be reported immediately to the facilities department. visitor management: all visitors must sign in at the reception desk and be escorted by an authorized employee. visitors must wear visitor badges at all times. visitor access must be logged and monitored. restricted areas: access to restricted areas (e.g., server rooms, data centers) must be limited to authorized personnel. restricted areas must be secured with access control systems (e.g., card readers, keypads). access to restricted areas must be logged and audited. after-hours access: after-hours access must be authorized by the user\u2019s manager and approved by the facilities department. after-hours access must be logged and monitored.",
+    "metadata": {
+      "source": "Physical Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.808639"
+    }
+  },
+  {
+    "title": "5. Physical Security Measures",
+    "content": "surveillance systems: cctv cameras must be installed in strategic locations to monitor premises. surveillance footage must be retained for a defined period. surveillance systems must be regularly maintained and tested. alarm systems: alarm systems must be installed to detect unauthorized entry and other security breaches. alarm systems must be regularly tested and maintained. alarm response procedures must be established and communicated to personnel. lighting: adequate lighting must be maintained in all areas of the premises. exterior lighting must be used to deter unauthorized access. locks and security doors: all exterior doors and windows must be secured with appropriate locks. security doors must be used to restrict access to sensitive areas. environmental controls: data centers and server rooms must be equipped with environmental controls (e.g., temperature, humidity) to protect equipment. environmental controls must be monitored and maintained.",
+    "metadata": {
+      "source": "Physical Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.808639"
+    }
+  },
+  {
+    "title": "6. Asset Protection",
+    "content": "equipment security: company-owned equipment must be secured to prevent theft. laptops and mobile devices must be secured when not in use. sensitive documents and media must be stored securely. data center security: data centers must be secured with multiple layers of physical security. access to data centers must be strictly controlled and logged. data center equipment must be protected from environmental hazards. document security: sensitive documents must be stored in locked cabinets or secure storage areas. documents must be shredded or destroyed securely when no longer needed. documents must not be left unattended in public areas.",
+    "metadata": {
+      "source": "Physical Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.808639"
+    }
+  },
+  {
+    "title": "7. Emergency Procedures",
+    "content": "emergency evacuation: emergency evacuation plans must be developed and communicated to personnel. emergency evacuation drills must be conducted regularly. emergency exits must be clearly marked and unobstructed. fire safety: fire extinguishers and smoke detectors must be installed and maintained. fire safety training must be provided to personnel. fire alarm systems must be regularly tested. natural disasters: emergency response plans must be developed for natural disasters (e.g., earthquakes, floods). emergency supplies must be stored on-site.",
+    "metadata": {
+      "source": "Physical Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.808639"
+    }
+  },
+  {
+    "title": "8. Responsibilities",
+    "content": "facilities department: implement and maintain physical security measures. manage access control systems. respond to security incidents. conduct security assessments. it & infosec department: provide input on physical security requirements for it systems. manage security systems related to it infrastructure. investigate security incidents related to it systems. all users: comply with this physical security policy. report any security incidents or concerns. protect company assets. follow emergency procedures.",
+    "metadata": {
+      "source": "Physical Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.808639"
+    }
+  },
+  {
+    "title": "9. Legal and Regulatory Compliance",
+    "content": "this policy complies with all applicable building codes, safety regulations, and data privacy laws. physical security measures must be consistent with legal and regulatory requirements.",
+    "metadata": {
+      "source": "Physical Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.808639"
+    }
+  },
+  {
+    "title": "10. Training and Awareness",
+    "content": "all users will receive training on this physical security policy. regular security awareness training will be provided to reinforce physical security best practices.",
+    "metadata": {
+      "source": "Physical Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.808639"
+    }
+  },
+  {
+    "title": "11. Policy Review and Updates",
+    "content": "this policy will be reviewed and updated annually or as needed to reflect changes in technology, threats, and regulations. any updates to this policy will be communicated to all users.",
+    "metadata": {
+      "source": "Physical Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.808639"
+    }
+  },
+  {
+    "title": "12. Monitoring and Enforcement",
+    "content": "the facilities department will conduct regular audits to ensure compliance with this policy. violations of this policy may result in disciplinary action, up to and including termination of employment or contract.",
+    "metadata": {
+      "source": "Physical Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.808639"
+    }
+  },
+  {
+    "title": "13. Acknowledgement",
+    "content": "by accessing company facilities, users acknowledge that they have read, understood, and agree to comply with this physical security policy. this physical security policy is designed to protect us solutions pvt ltd.\u2019s facilities, personnel, and assets. by adhering to these guidelines, users contribute to a safe and secure work environment.",
+    "metadata": {
+      "source": "Physical Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.808639"
+    }
+  },
+  {
+    "title": "1. Introduction",
+    "content": "us solutions pvt ltd. engages with various third-party vendors and service providers to support our business operations. these partnerships introduce potential security risks that must be managed effectively. this third-party/vendor security policy outlines the guidelines and procedures for assessing, managing, and mitigating security risks associated with third-party relationships. all employees and vendors are required to adhere to this policy.",
+    "metadata": {
+      "source": "Third-Party_Vendor Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.826754"
+    }
+  },
+  {
+    "title": "2. Purpose",
+    "content": "the purpose of this policy is to: establish a standardized approach to third-party/vendor security. protect company data and systems from security risks associated with third-party access. ensure that vendors comply with applicable laws, regulations, and industry standards. define the responsibilities of the company and vendors regarding security. minimize the risk of data breaches and security incidents.",
+    "metadata": {
+      "source": "Third-Party_Vendor Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.826754"
+    }
+  },
+  {
+    "title": "3. Scope",
+    "content": "this policy applies to all third-party vendors and service providers who: access company systems or data. process, store, or transmit company data. provide services that impact the security of company operations. any relationship where us solutions pvt ltd. shares information with a third party.",
+    "metadata": {
+      "source": "Third-Party_Vendor Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.826754"
+    }
+  },
+  {
+    "title": "4. Vendor Security Requirements",
+    "content": "security assessments: vendors must undergo security assessments before being granted access to company systems or data. assessments may include questionnaires, on-site audits, and vulnerability scans. the it & infosec department will review and approve vendor security assessments. security controls: vendors must implement appropriate security controls to protect company data and systems. controls may include access controls, encryption, network security, and incident response procedures. vendors must adhere to the security requirements outlined in contracts and service level agreements (slas). data protection: vendors must comply with all applicable data privacy laws and regulations (e.g., gdpr, ccpa). vendors must protect company data from unauthorized access, loss, or disclosure. vendors must notify the company of any data breaches or security incidents. incident response: vendors must have an incident response plan in place to address security incidents. vendors must notify the company of any security incidents that may impact company operations. vendors must cooperate with the company during incident response activities. background checks: for vendors that have access to sensitive data, background checks may be required for vendor personnel.",
+    "metadata": {
+      "source": "Third-Party_Vendor Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.826754"
+    }
+  },
+  {
+    "title": "5. Vendor Management Process",
+    "content": "vendor selection: security considerations must be included in the vendor selection process. vendors must be evaluated based on their security capabilities and track record. contracts and slas: contracts and slas must include security requirements and responsibilities. contracts must address data ownership, access control, and incident response procedures. contracts must include right to audit clauses. vendor monitoring: vendors must be monitored regularly to ensure compliance with security requirements. monitoring may include periodic security assessments, audits, and performance reviews. the vendor management team will conduct periodic reviews. offboarding: vendor access must be revoked promptly upon termination of the relationship. vendor data must be securely returned or destroyed. confirmation of data destruction must be provided.",
+    "metadata": {
+      "source": "Third-Party_Vendor Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.826754"
+    }
+  },
+  {
+    "title": "6. Company Responsibilities",
+    "content": "vendor security assessment: the it & infosec department is responsible for conducting vendor security assessments. contract management: the legal and vendor management departments are responsible for including security requirements in contracts and slas. vendor monitoring: the vendor management team is responsible for monitoring vendor compliance. incident response: the it & infosec department is responsible for coordinating incident response activities with vendors. communication: maintain clear communication channels with vendors regarding security.",
+    "metadata": {
+      "source": "Third-Party_Vendor Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.826754"
+    }
+  },
+  {
+    "title": "7. Vendor Responsibilities",
+    "content": "compliance: vendors must comply with all applicable laws, regulations, and company policies. security controls: vendors must implement and maintain appropriate security controls. notification: vendors must notify the company of any security incidents or data breaches. cooperation: vendors must cooperate with the company during security assessments and incident response activities.",
+    "metadata": {
+      "source": "Third-Party_Vendor Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.826754"
+    }
+  },
+  {
+    "title": "8. Legal and Regulatory Compliance",
+    "content": "this policy complies with all applicable data privacy laws and regulations (e.g., gdpr, ccpa). vendor security practices must be consistent with legal and regulatory requirements.",
+    "metadata": {
+      "source": "Third-Party_Vendor Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.826754"
+    }
+  },
+  {
+    "title": "9. Training and Awareness",
+    "content": "employees involved in vendor management will receive training on this policy. vendors will be provided with information about company security requirements.",
+    "metadata": {
+      "source": "Third-Party_Vendor Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.826754"
+    }
+  },
+  {
+    "title": "10. Policy Review and Updates",
+    "content": "this policy will be reviewed and updated annually or as needed to reflect changes in technology, threats, and regulations. any updates to this policy will be communicated to all employees and vendors.",
+    "metadata": {
+      "source": "Third-Party_Vendor Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.826754"
+    }
+  },
+  {
+    "title": "11. Monitoring and Enforcement",
+    "content": "the vendor management team will monitor vendor compliance and enforce this policy. violations of this policy may result in termination of the vendor relationship.",
+    "metadata": {
+      "source": "Third-Party_Vendor Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.826754"
+    }
+  },
+  {
+    "title": "12. Acknowledgement",
+    "content": "by engaging with us solutions pvt ltd., vendors acknowledge that they have read, understood, and agree to comply with this third-party/vendor security policy. this third-party/vendor security policy is designed to protect us solutions pvt ltd.'s data and systems from security risks associated with vendor relationships. by adhering to these guidelines, employees and vendors contribute to a secure and compliant business environment.",
+    "metadata": {
+      "source": "Third-Party_Vendor Security Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.826754"
+    }
+  },
+  {
+    "title": "1. Introduction",
+    "content": "this acceptable use policy (aup) outlines the guidelines and expectations for the use of us solutions pvt ltd. (\"the company\") information technology (it) resources, including but not limited to computers, laptops, mobile devices, networks, internet access, email, software, and data. this policy aims to ensure the security, integrity, and availability of our it infrastructure, protect confidential information, and maintain a professional and productive work environment. all employees, contractors, and temporary staff (\"users\") are required to read, understand, and comply with this policy.",
+    "metadata": {
+      "source": "AUP.pdf",
+      "timestamp": "2025-05-04T21:24:02.846671"
+    }
+  },
+  {
+    "title": "2. Purpose",
+    "content": "the purpose of this aup is to: define acceptable and unacceptable uses of company it resources. protect the company's intellectual property, confidential data, and reputation. ensure compliance with applicable laws and regulations. maintain the security and integrity of the company's it infrastructure. promote efficient and responsible use of it resources. establish clear consequences for policy violations.",
+    "metadata": {
+      "source": "AUP.pdf",
+      "timestamp": "2025-05-04T21:24:02.846671"
+    }
+  },
+  {
+    "title": "3. Scope",
+    "content": "this policy applies to all users who access or use any company it resources, regardless of location or device. this includes, but is not limited to: company-owned or leased computers, laptops, tablets, and mobile devices. company networks, including wired and wireless connections. company email and messaging systems. company software and applications. company data and information, regardless of storage location. internet access provided by the company. personal devices used to access company resources (byod).",
+    "metadata": {
+      "source": "AUP.pdf",
+      "timestamp": "2025-05-04T21:24:02.846671"
+    }
+  },
+  {
+    "title": "4. General Principles",
+    "content": "authorized use only: users are authorized to use company it resources solely for legitimate business purposes. confidentiality and security: users must protect the confidentiality and security of company data and information. compliance: users must comply with all applicable laws, regulations, and company policies. professional conduct: users must maintain a professional and respectful demeanor when using company it resources. no expectation of privacy: users should have no expectation of privacy when using company it resources. the company reserves the right to monitor and access all data and communications.",
+    "metadata": {
+      "source": "AUP.pdf",
+      "timestamp": "2025-05-04T21:24:02.846671"
+    }
+  },
+  {
+    "title": "5. Specific Guidelines",
+    "content": "5.1. computer and device usage: users must use assigned computers and devices responsibly and in accordance with company guidelines. users must not install unauthorized software or hardware on company devices. users must protect company devices from physical damage, theft, and unauthorized access. users must log off or lock their computers when unattended. users are responsible for ensuring operating systems and software patches are kept up to date when prompted by the system. byod devices must comply with minimum security requirements as set by the it department. 5.2. network and internet usage: users must use company networks and internet access for legitimate business purposes only. users must not engage in illegal or unethical activities, such as hacking, phishing, or distributing malware. users must not download or distribute copyrighted materials without proper authorization. users must not use company networks for personal gain or commercial activities. excessive bandwidth usage for non-work related activities is prohibited. use of vpns on company owned devices for non work related activity is strictly prohibited. 5.3. email and messaging: users must use company email and messaging systems for professional communication only. users must not send or forward inappropriate or offensive content. users must not send unsolicited emails or spam. users must protect company email accounts from unauthorized access. users must adhere to the companies data retention policies related to email. users must understand that any email sent from their company email address is considered a representation of the company. 5.4. software and data: users must use company software and applications in accordance with licensing agreements. users must not copy or distribute company software without authorization. users must protect company data from unauthorized access, modification, or destruction. users must not store personal data on company systems without authorization. users must adhere to the company's data classification policy. users must back up data as required by the company\u2019s backup policy. 5.5. social media: users must represent the company professionally on social media platforms. users must not disclose confidential company information on social media. users must not post defamatory or offensive content about the company, its employees, or clients. users must adhere to the company's social media policy. users must disclose their affiliation with the company when discussing company related topics on social media. 5.6. security: users must use strong passwords and change them regularly. users must not share passwords or other authentication credentials. users must report any security incidents or suspected security breaches immediately to the it department. users must not attempt to bypass security controls or access unauthorized systems. users must not disable or tamper with security software. users must be aware of and report phishing attempts.",
+    "metadata": {
+      "source": "AUP.pdf",
+      "timestamp": "2025-05-04T21:24:02.846671"
+    }
+  },
+  {
+    "title": "6. Monitoring and Enforcement",
+    "content": "the company reserves the right to monitor and access all user activity on company it resources. this includes, but is not limited to, email, internet usage, file access, and system logs. the company may use this information to investigate suspected policy violations, ensure compliance, and protect its interests. violations of this aup may result in disciplinary action, up to and including termination of employment or contract. the company may also take legal action to protect its rights and interests.",
+    "metadata": {
+      "source": "AUP.pdf",
+      "timestamp": "2025-05-04T21:24:02.846671"
+    }
+  },
+  {
+    "title": "7. Policy Review and Updates",
+    "content": "this aup will be reviewed and updated periodically to reflect changes in technology, regulations, and company policies. users are responsible for staying informed about any updates to this policy.",
+    "metadata": {
+      "source": "AUP.pdf",
+      "timestamp": "2025-05-04T21:24:02.846671"
+    }
+  },
+  {
+    "title": "8. Acknowledgement",
+    "content": "by accessing or using company it resources, users acknowledge that they have read, understood, and agree to comply with this aup.",
+    "metadata": {
+      "source": "AUP.pdf",
+      "timestamp": "2025-05-04T21:24:02.846671"
+    }
+  },
+  {
+    "title": "9. Incident Reporting",
+    "content": "any suspected or actual security incident or policy violation must be immediately reported to the it department or the security team.",
+    "metadata": {
+      "source": "AUP.pdf",
+      "timestamp": "2025-05-04T21:24:02.846671"
+    }
+  },
+  {
+    "title": "10. Data Classification.",
+    "content": "all data at us solutions pvt ltd. will be classified into the following 3 categories. public: data that is meant to be shared with the public. internal: data that is for internal use only. confidential: data that is extremely sensitive and needs to be protected. each data type will have specific handling and security requirements.",
+    "metadata": {
+      "source": "AUP.pdf",
+      "timestamp": "2025-05-04T21:24:02.846671"
+    }
+  },
+  {
+    "title": "11. Password Policy.",
+    "content": "all passwords must adhere to the following. minimum 12 characters. mixture of upper and lower case letters. at least one number. at least one special character. passwords must be changed every 90 days. password reuse is prohibited. passwords must not be stored in plain text. multi factor authentication must be used when possible.",
+    "metadata": {
+      "source": "AUP.pdf",
+      "timestamp": "2025-05-04T21:24:02.846671"
+    }
+  },
+  {
+    "title": "12. Mobile Device Usage.",
+    "content": "mobile devices used for company work must be protected by a strong password or biometric authentication. mobile devices must be kept up to date with the latest security patches. mobile devices must be configured to remotely wipe data if lost or stolen. sensitive company data must be encrypted on mobile devices. unauthorized software installation is prohibited. users must report lost or stolen devices immediately.",
+    "metadata": {
+      "source": "AUP.pdf",
+      "timestamp": "2025-05-04T21:24:02.846671"
+    }
+  },
+  {
+    "title": "13. Remote access.",
+    "content": "remote access to the company network must be done using a company approved vpn. remote access must be protected by multi factor authentication. remote access must only be used for business purposes. users must not leave remote access sessions unattended. users must ensure that their home network is secure.",
+    "metadata": {
+      "source": "AUP.pdf",
+      "timestamp": "2025-05-04T21:24:02.846671"
+    }
+  },
+  {
+    "title": "14. Legal Compliance.",
+    "content": "users must adhere to all local, national and international laws. this includes but is not limited to data privacy laws, intellectual property laws, and export control laws. this aup is designed to protect the company's it resources and ensure a safe and productive work environment. by adhering to these guidelines, users contribute to the overall security and success of us solutions pvt ltd.",
+    "metadata": {
+      "source": "AUP.pdf",
+      "timestamp": "2025-05-04T21:24:02.846671"
+    }
+  },
+  {
+    "title": "1. What This Policy Is About",
+    "content": "we at us solutions pvt ltd. take your privacy seriously. this policy explains how we handle your personal information \u2013 things like your name, contact details, and anything else that identifies you. we want to be clear about what we collect, why, and how we keep it safe.",
+    "metadata": {
+      "source": "Data Privacy Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.859086"
+    }
+  },
+  {
+    "title": "2. Why We Have This Policy",
+    "content": "basically, we want to: be upfront about how we use your data. make sure we follow all the rules about data protection. keep your information safe and secure. build trust with you.",
+    "metadata": {
+      "source": "Data Privacy Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.859086"
+    }
+  },
+  {
+    "title": "3. Who This Policy Applies To",
+    "content": "this policy covers anyone whose information we handle \u2013 employees, clients, contractors, anyone. if we have your data, this policy applies to you.",
+    "metadata": {
+      "source": "Data Privacy Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.859086"
+    }
+  },
+  {
+    "title": "4. What We Mean by \"Personal Data\"",
+    "content": "personal data is any information that can be used to identify you. that includes things like your name, address, email, phone number, and even your ip address.",
+    "metadata": {
+      "source": "Data Privacy Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.859086"
+    }
+  },
+  {
+    "title": "5. How We Handle Your Data: The Basics",
+    "content": "we follow these basic principles: we're fair and transparent. we only collect data we need. we keep your data accurate and up-to-date. we don't keep your data longer than we need to. we keep your data secure. we take responsibility for how we handle your data.",
+    "metadata": {
+      "source": "Data Privacy Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.859086"
+    }
+  },
+  {
+    "title": "6. What Information We Collect and Why",
+    "content": "we collect your information for specific reasons, like: employee data: payroll, hr, and work-related stuff. client data: project work, billing, and communication. we won't collect anything we don't need.",
+    "metadata": {
+      "source": "Data Privacy Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.859086"
+    }
+  },
+  {
+    "title": "7. Your Rights",
+    "content": "you have rights when it comes to your data: you can ask to see your data. you can ask us to fix any mistakes. you can ask us to delete your data in some cases. you can ask us to limit how we use your data. you can ask for a copy of your data. you can object to how we use your data. you can withdraw your consent. you have the right to not be subject to automated decision making.",
+    "metadata": {
+      "source": "Data Privacy Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.859086"
+    }
+  },
+  {
+    "title": "8. Keeping Your Data Safe",
+    "content": "we use security measures to protect your data, including: restricting access to your data. using encryption. strong passwords and multi-factor authentication. regular security checks. backups and disaster recovery plans.",
+    "metadata": {
+      "source": "Data Privacy Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.859086"
+    }
+  },
+  {
+    "title": "9. How Long We Keep Your Data",
+    "content": "we only keep your data as long as we need it. we have a schedule for how long we keep different types of data, and we delete it securely when we're done.",
+    "metadata": {
+      "source": "Data Privacy Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.859086"
+    }
+  },
+  {
+    "title": "10. Sharing Your Data",
+    "content": "sometimes, we need to share your data with other companies (like our data processors). we make sure they follow the same rules as us. if we send data overseas, we make sure it's protected.",
+    "metadata": {
+      "source": "Data Privacy Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.859086"
+    }
+  },
+  {
+    "title": "11. What Happens If There's a Data Breach",
+    "content": "if there's a security breach, we'll let you know and take steps to fix it.",
+    "metadata": {
+      "source": "Data Privacy Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.859086"
+    }
+  },
+  {
+    "title": "12. Who's Responsible",
+    "content": "our data protection officer (dpo) is in charge of making sure we follow this policy. everyone at us solutions pvt ltd. is responsible for keeping your data safe.",
+    "metadata": {
+      "source": "Data Privacy Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.859086"
+    }
+  },
+  {
+    "title": "13. Training",
+    "content": "we train our employees on data privacy and security.",
+    "metadata": {
+      "source": "Data Privacy Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.859086"
+    }
+  },
+  {
+    "title": "14. Changes to This Policy",
+    "content": "we'll update this policy as needed, and we'll let you know about any big changes.",
+    "metadata": {
+      "source": "Data Privacy Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.859086"
+    }
+  },
+  {
+    "title": "15. Questions?",
+    "content": "if you have any questions about this policy, please contact our dpo. we want you to feel confident that your data is safe with us.",
+    "metadata": {
+      "source": "Data Privacy Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.859086"
+    }
+  },
+  {
+    "title": "1. Introduction",
+    "content": "effective and secure communication is essential for the smooth operation and success of us solutions pvt ltd. this email and communication policy outlines the guidelines and requirements for the use of company email, messaging, and other communication tools. it aims to ensure professional, secure, and compliant communication practices among all employees, contractors, and authorized users (\"users\").",
+    "metadata": {
+      "source": "Email and Communication Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.877610"
+    }
+  },
+  {
+    "title": "2. Purpose",
+    "content": "the purpose of this policy is to: establish standards for professional and responsible communication. protect company data and systems from email-based threats. ensure compliance with applicable laws and regulations. maintain the company's reputation and professional image. provide guidelines for the appropriate use of communication tools.",
+    "metadata": {
+      "source": "Email and Communication Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.877610"
+    }
+  },
+  {
+    "title": "3. Scope",
+    "content": "this policy applies to all users who use company-provided or company-managed communication tools, including: company email accounts (e.g., @ussolutionspvtltd.com). instant messaging platforms (e.g., microsoft teams, slack). video conferencing tools (e.g., zoom, google meet). company-provided mobile communication devices. any other communication tools used for business purposes.",
+    "metadata": {
+      "source": "Email and Communication Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.877610"
+    }
+  },
+  {
+    "title": "4. Email Usage Guidelines",
+    "content": "professionalism: emails must be written in a professional and courteous tone. avoid using slang, jargon, or offensive language. ensure emails are free of grammatical errors and typos. always include a clear and concise subject line. confidentiality: do not forward confidential company information to unauthorized recipients. use encryption when sending sensitive information via email. be mindful of the recipients when replying to or forwarding emails. email security: be vigilant about phishing emails and other email-based threats. do not open attachments or click on links from unknown or suspicious senders. report any suspected phishing emails to the it department ([email address removed]). do not download unapproved email add-ins. email retention: adhere to the company's email retention policy. do not delete emails that may be required for legal or regulatory purposes. email signatures: use the company approved email signature. do not include personal advertisements or inappropriate content in signatures.",
+    "metadata": {
+      "source": "Email and Communication Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.877610"
+    }
+  },
+  {
+    "title": "5. Instant Messaging Guidelines",
+    "content": "business use: use instant messaging platforms primarily for business-related communications. avoid using instant messaging for personal conversations during work hours. professionalism: maintain a professional tone in instant messaging conversations. avoid using abbreviations or jargon that may be unclear to others. be mindful of the presence of others when displaying conversations on screens. data security: do not share sensitive company information via instant messaging without proper authorization. be aware that instant messaging conversations may be logged and monitored.",
+    "metadata": {
+      "source": "Email and Communication Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.877610"
+    }
+  },
+  {
+    "title": "6. Video Conferencing Guidelines",
+    "content": "security: use secure video conferencing platforms and features (e.g., password protection). do not share sensitive information in open video conferencing sessions. be aware of your background and surroundings during video calls. professionalism: dress appropriately for video conferences. ensure a quiet and professional environment. mute your microphone when not speaking. recording: recording video conferences must be done with the consent of all participants. recordings containing company information must be stored securely.",
+    "metadata": {
+      "source": "Email and Communication Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.877610"
+    }
+  },
+  {
+    "title": "7. Mobile Communication Devices",
+    "content": "security: secure mobile communication devices with strong passcodes or biometric authentication. install and maintain up-to-date antivirus and anti-malware software. report any lost or stolen devices immediately to the it department. usage: use mobile communication devices responsibly and professionally. avoid using mobile devices while driving. adhere to the company\u2019s byod policy if applicable.",
+    "metadata": {
+      "source": "Email and Communication Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.877610"
+    }
+  },
+  {
+    "title": "8. Social Media",
+    "content": "company representation: represent the company professionally on social media platforms. do not disclose confidential company information on social media. adhere to the company\u2019s social media policy. personal use: personal social media usage should not interfere with work duties. do not post anything that could damage the company\u2019s reputation.",
+    "metadata": {
+      "source": "Email and Communication Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.877610"
+    }
+  },
+  {
+    "title": "9. Legal and Regulatory Compliance",
+    "content": "data privacy: comply with all applicable data privacy laws and regulations (e.g., gdpr, ccpa). do not share personal data without proper authorization. intellectual property: respect the company's intellectual property rights. do not distribute copyrighted materials without permission. legal holds: comply with any legal holds or requests for information.",
+    "metadata": {
+      "source": "Email and Communication Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.877610"
+    }
+  },
+  {
+    "title": "10. Monitoring and Enforcement",
+    "content": "the company reserves the right to monitor and access communication tools for security and compliance purposes. violations of this policy may result in disciplinary action, up to and including termination of employment or contract.",
+    "metadata": {
+      "source": "Email and Communication Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.877610"
+    }
+  },
+  {
+    "title": "11. Training and Awareness",
+    "content": "all users will receive training on this email and communication policy. regular security awareness training will be provided to reinforce best practices.",
+    "metadata": {
+      "source": "Email and Communication Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.877610"
+    }
+  },
+  {
+    "title": "12. Policy Review and Updates",
+    "content": "this policy will be reviewed and updated annually or as needed to reflect changes in technology, threats, and regulations. any updates to this policy will be communicated to all users.",
+    "metadata": {
+      "source": "Email and Communication Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.877610"
+    }
+  },
+  {
+    "title": "13. Acknowledgement",
+    "content": "by using company communication tools, users acknowledge that they have read, understood, and agree to comply with this email and communication policy. this email and communication policy is designed to promote secure, professional, and compliant communication practices at us solutions pvt ltd. by adhering to these guidelines, users contribute to a positive and productive work environment.",
+    "metadata": {
+      "source": "Email and Communication Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.877610"
+    }
+  },
+  {
+    "title": "1. Introduction",
+    "content": "the protection of information assets is critical to the success of us solutions pvt ltd. this data classification policy establishes a framework for categorizing data based on its sensitivity and criticality. proper classification ensures that appropriate security controls are applied to protect information from unauthorized access, modification, or destruction. all employees, contractors, and authorized users (\"users\") are required to adhere to this policy.",
+    "metadata": {
+      "source": " Data Classification Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.895397"
+    }
+  },
+  {
+    "title": "2. Purpose",
+    "content": "the purpose of this policy is to: establish a consistent data classification system. ensure that sensitive information is adequately protected. facilitate compliance with applicable laws and regulations. define the responsibilities of data owners and custodians. minimize the risk of data breaches and unauthorized disclosure.",
+    "metadata": {
+      "source": " Data Classification Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.895397"
+    }
+  },
+  {
+    "title": "3. Scope",
+    "content": "this policy applies to all data created, processed, stored, or transmitted by us solutions pvt ltd., regardless of the format or medium. this includes: electronic data (e.g., documents, databases, emails). physical data (e.g., paper documents, hard drives). verbal communications.",
+    "metadata": {
+      "source": " Data Classification Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.895397"
+    }
+  },
+  {
+    "title": "4. Data Classification Levels",
+    "content": "data is classified into the following levels: public (level 1): information that is intended for public disclosure and has minimal impact on the company if disclosed. examples: marketing materials, public website content, press releases. security requirements: basic access controls, public availability. internal (level 2): information that is intended for internal use only and could have a moderate impact on the company if disclosed without authorization. examples: internal policies, employee handbooks, non-sensitive project documents. security requirements: access controls limited to authorized employees, secure storage within the company network. confidential (level 3): information that is highly sensitive and could have a significant impact on the company if disclosed without authorization. examples: financial data, client contracts, intellectual property, employee personal data. security requirements: strict access controls, encryption, secure storage, limited distribution. restricted (level 4): information that is extremely sensitive and could have a severe impact on the company if disclosed without authorization. examples: source code, customer credit card data, trade secrets, classified government information. security requirements: strongest access controls, robust encryption, strict need to know basis, audit logging, and monitored access.",
+    "metadata": {
+      "source": " Data Classification Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.895397"
+    }
+  },
+  {
+    "title": "5. Data Owner and Custodian Responsibilities",
+    "content": "data owner: determines the classification level of data. approves access to data. ensures compliance with this policy. reviews data classifications periodically. data custodian: implements security controls based on the data classification level. ensures data integrity and availability. maintains access logs and audit trails. informs data owners of security incidents.",
+    "metadata": {
+      "source": " Data Classification Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.895397"
+    }
+  },
+  {
+    "title": "6. Data Handling Guidelines",
+    "content": "labeling: all documents and electronic files must be labeled with the appropriate classification level. email subject lines should indicate the classification level of the content. storage: data must be stored in accordance with its classification level. confidential and restricted data must be encrypted when stored. physical storage must be secured appropriately. transmission: data must be transmitted securely, using encryption or other appropriate methods. confidential and restricted data must not be transmitted over unsecured networks. access control: access to data must be granted on a need-to-know basis. access controls must be regularly reviewed and updated. principle of least privilege must be followed. disposal: data must be securely disposed of when no longer needed. electronic data must be securely wiped or shredded. physical documents must be shredded or destroyed.",
+    "metadata": {
+      "source": " Data Classification Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.895397"
+    }
+  },
+  {
+    "title": "7. Data Classification Process",
+    "content": "data owners are responsible for classifying their data. the it department provides guidance and support for data classification. data classification should be reviewed and updated periodically. any newly created data must be classified.",
+    "metadata": {
+      "source": " Data Classification Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.895397"
+    }
+  },
+  {
+    "title": "8. Legal and Regulatory Compliance",
+    "content": "this policy complies with all applicable data privacy laws and regulations (e.g., gdpr, ccpa). data classification must be consistent with legal and regulatory requirements.",
+    "metadata": {
+      "source": " Data Classification Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.895397"
+    }
+  },
+  {
+    "title": "9. Training and Awareness",
+    "content": "all users will receive training on this data classification policy. regular security awareness training will be provided to reinforce data classification best practices.",
+    "metadata": {
+      "source": " Data Classification Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.895397"
+    }
+  },
+  {
+    "title": "10. Policy Review and Updates",
+    "content": "this policy will be reviewed and updated annually or as needed to reflect changes in technology, threats, and regulations. any updates to this policy will be communicated to all users.",
+    "metadata": {
+      "source": " Data Classification Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.895397"
+    }
+  },
+  {
+    "title": "11. Monitoring and Enforcement",
+    "content": "the it department will conduct regular audits to ensure compliance with this policy. violations of this policy may result in disciplinary action, up to and including termination1 of employment or contract.",
+    "metadata": {
+      "source": " Data Classification Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.895397"
+    }
+  },
+  {
+    "title": "12. Acknowledgement",
+    "content": "by accessing company data, users acknowledge that they have read, understood, and agree to comply with this data classification policy. this data classification policy is designed to protect us solutions pvt ltd.'s information assets and ensure compliance with applicable laws and regulations. by adhering to these guidelines, users contribute to a secure and compliant work environment.",
+    "metadata": {
+      "source": " Data Classification Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.895397"
+    }
+  },
+  {
+    "title": "1. Introduction",
+    "content": "us solutions pvt ltd. recognizes that effective user provisioning and deprovisioning are crucial for maintaining system security and ensuring appropriate access to company resources. this policy outlines the procedures for creating, modifying, and terminating user accounts and access rights. all employees, contractors, and authorized users (\"users\") are required to adhere to this policy.",
+    "metadata": {
+      "source": "User Provisioning and Deprovisioning Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.916641"
+    }
+  },
+  {
+    "title": "2. Purpose",
+    "content": "the purpose of this policy is to: establish a standardized process for user account management. ensure that access is granted on a need-to-know and least privilege basis. prevent unauthorized access to company systems and data. maintain accurate user account information. facilitate compliance with applicable laws, regulations, and industry standards.",
+    "metadata": {
+      "source": "User Provisioning and Deprovisioning Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.916641"
+    }
+  },
+  {
+    "title": "3. Scope",
+    "content": "this policy applies to all user accounts that access company systems, applications, and data, including: network accounts and servers. email and messaging systems. company applications (e.g., crm, erp). databases and file shares. cloud-based services. remote access systems. physical access control systems.",
+    "metadata": {
+      "source": "User Provisioning and Deprovisioning Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.916641"
+    }
+  },
+  {
+    "title": "4. User Provisioning Procedures",
+    "content": "account request: a formal account request must be submitted by the user\u2019s manager or hr department. the request must include the user\u2019s name, job title, department, and required access rights. the request must be approved by the appropriate authority (e.g., department head, system owner). account creation: user accounts will be created by the it department according to company naming conventions. access rights will be assigned based on the user\u2019s job role and responsibilities. temporary accounts may be created for contractors or temporary staff, with a defined expiration date. account information: user account information must be accurate and up-to-date. users are responsible for maintaining their contact information. the it department will verify account information periodically. access review: access rights will be reviewed periodically to ensure they remain appropriate. user access will be reviewed upon job changes or department transfers. access reviews will be documented and retained for audit purposes.",
+    "metadata": {
+      "source": "User Provisioning and Deprovisioning Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.916641"
+    }
+  },
+  {
+    "title": "5. User Deprovisioning Procedures",
+    "content": "account termination: user accounts must be disabled immediately upon termination of employment or contract. the hr department is responsible for notifying the it department of account terminations. access to physical access systems must also be revoked. data transfer: upon termination, the user\u2019s data must be transferred or backed up according to company policy. the user\u2019s manager is responsible for ensuring that necessary data is transferred. account deletion: user accounts and associated data must be deleted according to company data retention policies. audit logs must be retained for a defined period. email accounts must be archived and then deleted. access revocation: all access rights must be revoked upon termination or job change. access to physical access systems must also be revoked. remote access privileges must be terminated.",
+    "metadata": {
+      "source": "User Provisioning and Deprovisioning Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.916641"
+    }
+  },
+  {
+    "title": "6. Responsibilities",
+    "content": "human resources (hr): notify the it department of new hires and terminations. provide accurate employee information. managers: submit account requests and approvals. ensure that access rights are appropriate for job functions. inform it of employee role changes. ensure data transfer upon termination. it department: create, modify, and terminate user accounts. manage access rights and permissions. maintain accurate user account information. conduct access reviews and audits. maintain logs of all changes. users: comply with this policy. protect their access credentials. report any unauthorized access attempts. ensure personal contact information is up to date.",
+    "metadata": {
+      "source": "User Provisioning and Deprovisioning Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.916641"
+    }
+  },
+  {
+    "title": "7. Access Control Mechanisms",
+    "content": "role-based access control (rbac): access rights should be assigned based on user roles and responsibilities. attribute-based access control (abac): access rights can be granted based on user attributes, resource attributes, and environmental conditions. multi-factor authentication (mfa): mfa is mandatory for access to sensitive systems and applications. privileged access management (pam): pam solutions must be used to manage privileged accounts.",
+    "metadata": {
+      "source": "User Provisioning and Deprovisioning Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.916641"
+    }
+  },
+  {
+    "title": "8. Legal and Regulatory Compliance",
+    "content": "this policy complies with all applicable data privacy laws and regulations (e.g., gdpr, ccpa). user provisioning and deprovisioning practices must be consistent with legal and regulatory requirements.",
+    "metadata": {
+      "source": "User Provisioning and Deprovisioning Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.916641"
+    }
+  },
+  {
+    "title": "9. Training and Awareness",
+    "content": "all users involved in user account management will receive training on this policy. regular security awareness training will be provided to reinforce access control best practices.",
+    "metadata": {
+      "source": "User Provisioning and Deprovisioning Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.916641"
+    }
+  },
+  {
+    "title": "10. Policy Review and Updates",
+    "content": "this policy will be reviewed and updated annually or as needed to reflect changes in technology, threats, and regulations. any updates to this policy will be communicated to all users.",
+    "metadata": {
+      "source": "User Provisioning and Deprovisioning Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.916641"
+    }
+  },
+  {
+    "title": "11. Monitoring and Enforcement",
+    "content": "the it department will conduct regular audits to ensure compliance with this policy. violations of this policy may result in disciplinary action, up to and including termination of employment or contract.",
+    "metadata": {
+      "source": "User Provisioning and Deprovisioning Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.916641"
+    }
+  },
+  {
+    "title": "12. Acknowledgement",
+    "content": "by accessing company systems, applications, and data, users acknowledge that they have read, understood, and agree to comply with this user provisioning and deprovisioning policy. this user provisioning and deprovisioning policy is designed to protect us solutions pvt ltd.\u2019s information assets and ensure compliance with applicable laws and regulations. by adhering to these guidelines, users contribute to a secure and compliant work environment.",
+    "metadata": {
+      "source": "User Provisioning and Deprovisioning Policy.pdf",
+      "timestamp": "2025-05-04T21:24:02.916641"
+    }
+  }
+]

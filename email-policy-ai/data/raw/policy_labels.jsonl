@@ -1,0 +1,535 @@
+{"text": "Please share the employee payroll file with the entire team over email.", "label": "Data Classification Policy"}
+{"text": "Send the updated product catalog for website upload.", "label": "Data Classification Policy"}
+{"text": "Upload the confidential client contract to the shared public Google Drive folder.", "label": "Data Classification Policy"}
+{"text": "I’ve added the press release to the public folder. Let me know if it's good to go.", "label": "Data Classification Policy"}
+{"text": "Forward the source code to your personal Gmail so you can work from home.", "label": "Data Classification Policy"}
+{"text": "Make sure to encrypt the restricted data before transferring it to the secure vault.", "label": "Data Classification Policy"}
+{"text": "Destroy the printed confidential reports once reviewed.", "label": "Data Classification Policy"}
+{"text": "Can we store financial reports without encryption in the project folder?", "label": "Data Classification Policy"}
+{"text": "Label this document as Internal before uploading it to the shared drive.", "label": "Data Classification Policy"}
+{"text": "Share the product roadmap presentation at the client meeting. It’s public info.", "label": "Data Classification Policy"}
+{"text": "Send me the intellectual property documents over Slack.", "label": "Data Classification Policy"}
+{"text": "I’ve marked the contract as Level 3 - Confidential. Please restrict access.", "label": "Data Classification Policy"}
+{"text": "No need to classify this report. It’s just an internal update.", "label": "Data Classification Policy"}
+{"text": "Delete the old versions of client documents from your downloads folder.", "label": "Data Classification Policy"}
+{"text": "Attach the credit card data in an unencrypted Excel and email it.", "label": "Data Classification Policy"}
+{"text": "Keep the employee handbook in the internal portal only.", "label": "Data Classification Policy"}
+{"text": "Please review the updated data classification levels before next week.", "label": "Data Classification Policy"}
+{"text": "I classified the marketing flyer as Public and uploaded it to the website.", "label": "Data Classification Policy"}
+{"text": "Don't worry about labeling — the file's not that important.", "label": "Data Classification Policy"}
+{"text": "Ensure strict access controls are enabled for all Restricted documents.", "label": "Data Classification Policy"}
+{"text": "Please share the unencrypted client contract over email with the vendor.", "label": "Information Security Policy"}
+{"text": "I’ve classified the document as 'Confidential' and applied access controls accordingly.", "label": "Information Security Policy"}
+{"text": "Forgot to run antivirus on this machine for the past month, but uploading the files now.", "label": "Information Security Policy"}
+{"text": "Enabling multi-factor authentication before accessing the client system remotely.", "label": "Information Security Policy"}
+{"text": "Upload all financial reports without encryption for faster access.", "label": "Information Security Policy"}
+{"text": "Make sure your device is fully patched before you join the secure network.", "label": "Information Security Policy"}
+{"text": "Share the internal risk assessment with the marketing intern via personal email.", "label": "Information Security Policy"}
+{"text": "We’ve implemented firewalls and VPN access as part of our new deployment.", "label": "Information Security Policy"}
+{"text": "Disabling MFA temporarily to let the vendor log in for debugging.", "label": "Information Security Policy"}
+{"text": "All backup data is now encrypted and stored offsite weekly.", "label": "Information Security Policy"}
+{"text": "I’ve shared the password list via Slack for everyone's access.", "label": "Information Security Policy"}
+{"text": "Label the employee data as 'Restricted' and restrict access to HR only.", "label": "Information Security Policy"}
+{"text": "We should bypass the patch schedule this month to avoid downtime.", "label": "Information Security Policy"}
+{"text": "Please conduct a security awareness session for the new hires today.", "label": "Information Security Policy"}
+{"text": "Just allow everyone access to the client database—it’s easier that way.", "label": "Information Security Policy"}
+{"text": "Forward all emails flagged as phishing to the IT team for analysis.", "label": "Information Security Policy"}
+{"text": "Use your personal Dropbox to sync client documents—it’s faster.", "label": "Information Security Policy"}
+{"text": "The audit logs are active and being monitored in real time.", "label": "Information Security Policy"}
+{"text": "There’s no need to encrypt internal financial reports before sharing them.", "label": "Information Security Policy"}
+{"text": "Make sure to use strong passwords and change them every 90 days.", "label": "Information Security Policy"}
+{"text": "I’ll send the sensitive data over email since it’s a small file.", "label": "Information Security Policy"}
+{"text": "I’ve set up a secure connection to the company network using VPN.", "label": "Information Security Policy"}
+{"text": "Please share the internal project files with the client via Google Drive.", "label": "Information Security Policy"}
+{"text": "I’ll be working from home today and will access the system remotely.", "label": "Information Security Policy"}
+{"text": "The new software update includes enhanced security features and bug fixes.", "label": "Information Security Policy"}
+{"text": "I’m using a public Wi-Fi network to access the company database without VPN.", "label": "Information Security Policy"}
+{"text": "Please ensure all sensitive data is encrypted before sending it over email.", "label": "Information Security Policy"}
+{"text": "I’ll be using my personal device to access the company network today.", "label": "Information Security Policy"}
+{"text": "The security team will conduct a vulnerability assessment next week.", "label": "Information Security Policy"}
+{"text": "I’ve shared the confidential report with the team via an unencrypted email.", "label": "Information Security Policy"}
+{"text": "Please use a secure file transfer method for sending sensitive documents.", "label": "Information Security Policy"}
+{"text": "I’ll be working from a coffee shop without a VPN, but I’ll be careful.", "label": "Information Security Policy"}
+{"text": "I’ve set up a secure connection to the company network using VPN and MFA.", "label": "Information Security Policy"}
+{"text": "I’ll be accessing the company portal from a public Wi-Fi network without VPN.", "label": "Information Security Policy"}
+{"text": "I’ll be working from a coffee shop without a VPN, but I’ll be careful.", "label": "Remote Work Security Policy"}
+{"text": "I’ll be using my personal laptop to access the company network from home.", "label": "Remote Work Security Policy"}
+{"text": "I’m using a public Wi-Fi network to access the company database without VPN.", "label": "Remote Work Security Policy"}
+{"text": "I’ll be working from a hotel room without a VPN, but I’ll be careful.", "label": "Remote Work Security Policy"}
+{"text": "I’ve set up a secure connection to the company network using VPN and MFA.", "label": "Remote Work Security Policy"}
+{"text": "I’ll be accessing the company portal from a public Wi-Fi network without VPN.", "label": "Remote Work Security Policy"}
+{"text": "Please ensure all sensitive data is encrypted before sending it over email.", "label": "Remote Work Security Policy"}
+{"text": "I’ll be using my personal device to access the company network today.", "label": "Remote Work Security Policy"}
+{"text": "The security team will conduct a vulnerability assessment next week.", "label": "Remote Work Security Policy"}
+{"text": "I’ve shared the confidential report with the team via an unencrypted email.", "label": "Remote Work Security Policy"}
+{"text": "Please use a secure file transfer method for sending sensitive documents.", "label": "Remote Work Security Policy"}
+{"text": "I'll upload the project files from a hotel Wi-Fi connection without VPN tonight.", "label": "Remote Work Security Policy"}
+{"text": "Accessing the payroll system from my home using VPN and MFA as instructed.", "label": "Remote Work Security Policy"}
+{"text": "Sent the encrypted contract through WhatsApp since Outlook was down.", "label": "Remote Work Security Policy"}
+{"text": "I’ve ensured the latest security patches and antivirus updates are installed before logging in.", "label": "Remote Work Security Policy"}
+{"text": "Using my personal laptop in a café to download the company backup, no VPN used.", "label": "Remote Work Security Policy"}
+{"text": "Set up my remote workspace in a private room and locked the company laptop when away.", "label": "Remote Work Security Policy"}
+{"text": "Accessed the company dashboard using a shared public computer at the airport lounge.", "label": "Remote Work Security Policy"}
+{"text": "Logged in with VPN and MFA to approve the client report from home.", "label": "Remote Work Security Policy"}
+{"text": "I’m storing the employee documents in Dropbox temporarily until I’m back in office.", "label": "Remote Work Security Policy"}
+{"text": "Attended the Zoom call from home with password-protected meeting settings enabled.", "label": "Remote Work Security Policy"}
+{"text": "Will forward the sensitive client data to my personal email to print later.", "label": "Remote Work Security Policy"}
+{"text": "I’ve enabled encryption on my company-provided laptop and regularly back up all files.", "label": "Remote Work Security Policy"}
+{"text": "Left the laptop on a coffee shop table while stepping out for a call.", "label": "Remote Work Security Policy"}
+{"text": "Sending the design files via Teams as per company-approved tools list.", "label": "Remote Work Security Policy"}
+{"text": "Can I skip MFA for today? It's not working on my mobile.", "label": "Remote Work Security Policy"}
+{"text": "Using updated antivirus, firewall, and patched OS on my remote workstation as required.", "label": "Remote Work Security Policy"}
+{"text": "Using hotel lobby Wi-Fi without VPN since my home network is down.", "label": "Remote Work Security Policy"}
+{"text": "I’ve shredded the printed version of the restricted doc after review.", "label": "Remote Work Security Policy"}
+{"text": "Using a non-approved app to transfer the database because OneDrive is too slow.", "label": "Remote Work Security Policy"}
+{"text": "Storing confidential files securely on a password-protected, encrypted device at home.", "label": "Remote Work Security Policy"}
+{"text": "I’ll be working from a public library without a VPN, but I’ll be careful.", "label": "Remote Work Security Policy"}
+{"text": "Using my personal phone to access work emails since my laptop is broken.", "label": "Remote Work Security Policy"}
+{"text": "I’ll be using a public Wi-Fi network to access the company portal, but I’ll use a VPN.", "label": "Remote Work Security Policy"}
+{"text": "I’ve shared the project files with the team via an unencrypted email.", "label": "Remote Work Security Policy"}
+{"text": "Grant admin access to all interns for testing.", "label": "Access Control Policy"}
+{"text": "User roles were assigned based on their job functions.", "label": "Access Control Policy"}
+{"text": "Shared my login credentials with my colleague for quick access.", "label": "Access Control Policy"}
+{"text": "Enabled MFA for accessing the payroll system remotely.", "label": "Access Control Policy"}
+{"text": "Left my access badge on my desk overnight.", "label": "Access Control Policy"}
+{"text": "Temporary access granted to contractor with expiration date.", "label": "Access Control Policy"}
+{"text": "All terminated employees' accounts are still active.", "label": "Access Control Policy"}
+{"text": "Access logs are reviewed quarterly as required.", "label": "Access Control Policy"}
+{"text": "I approved access to sensitive HR records without data owner sign-off.", "label": "Access Control Policy"}
+{"text": "Passwords follow company naming convention and policy.", "label": "Access Control Policy"}
+{"text": "Connected from home using VPN and MFA to the document system.", "label": "Access Control Policy"}
+{"text": "Requested admin access for testing without formal approval.", "label": "Access Control Policy"}
+{"text": "User access was reviewed and updated after the role change.", "label": "Access Control Policy"}
+{"text": "Privileged accounts use unique credentials with strong passwords.", "label": "Access Control Policy"}
+{"text": "Bypassed access control due to project urgency.", "label": "Access Control Policy"}
+{"text": "Logged in using a temporary test account from a public location.", "label": "Access Control Policy"}
+{"text": "System administrator accounts are not shared among users.", "label": "Access Control Policy"}
+{"text": "HR manager is reviewing access logs weekly.", "label": "Access Control Policy"}
+{"text": "Access granted to users without documented need-to-know basis.", "label": "Access Control Policy"}
+{"text": "Access request approved and logged by both manager and data owner.", "label": "Access Control Policy"}
+{"text": "I’ll be using my personal device to access the company network today.", "label": "Access Control Policy"}
+{"text": "The security team will conduct a vulnerability assessment next week.", "label": "Access Control Policy"}
+{"text": "I’ve shared the confidential report with the team via an unencrypted email.", "label": "Access Control Policy"}
+{"text": "Please use a secure file transfer method for sending sensitive documents.", "label": "Access Control Policy"}
+{"text": "I’ll be working from a coffee shop without a VPN, but I’ll be careful.", "label": "Access Control Policy"}
+{"text": "I’ve set up a secure connection to the company network using VPN and MFA.", "label": "Access Control Policy"}
+{"text": "I’ll be accessing the company portal from a public Wi-Fi network without VPN.", "label": "Access Control Policy"}
+{"text": "Please ensure all sensitive data is encrypted before sending it over email.", "label": "Access Control Policy"}
+{"text": "Used company email to send marketing material for my personal business.", "label": "AUP"}
+{"text": "Locked my workstation before stepping away for a break.", "label": "AUP"}
+{"text": "Downloaded a free VPN client on my work laptop for personal browsing.", "label": "AUP"}
+{"text": "All mobile devices are updated with latest security patches.", "label": "AUP"}
+{"text": "Used company bandwidth to stream a sports event during work hours.", "label": "AUP"}
+{"text": "Reported a phishing email to IT immediately after receiving it.", "label": "AUP"}
+{"text": "Accessed inappropriate websites using company internet.", "label": "AUP"}
+{"text": "Shared company confidential files via personal cloud storage.", "label": "AUP"}
+{"text": "Changed my password following the 90-day renewal policy.", "label": "AUP"}
+{"text": "Left my personal laptop unlocked in a shared office space.", "label": "AUP"}
+{"text": "Installed unauthorized file-sharing software on a company machine.", "label": "AUP"}
+{"text": "Complied with all data classification guidelines in email attachments.", "label": "AUP"}
+{"text": "Used official company communication channels for all correspondence.", "label": "AUP"}
+{"text": "Saved personal vacation photos on the company drive.", "label": "AUP"}
+{"text": "Used strong 12-character password with special characters.", "label": "AUP"}
+{"text": "Attempted to bypass security filters to access restricted content.", "label": "AUP"}
+{"text": "Respected all copyright terms when using shared documents.", "label": "AUP"}
+{"text": "Posted negative remarks about the company on social media.", "label": "AUP"}
+{"text": "Adhered to the remote access and VPN usage rules.", "label": "AUP"}
+{"text": "Disabled antivirus temporarily to install pirated software.", "label": "AUP"}
+{"text": "Used company resources for personal gain without permission.", "label": "AUP"}
+{"text": "I’ve shared the password list via Slack for everyone's access.", "label": "AUP"}
+{"text": "Used my work email to sign up for a personal online shopping account.", "label": "AUP"}
+{"text": "Skipped daily backups to save time this week.", "label": "Backup and Disaster Recovery Policy"}
+{"text": "Tested our disaster recovery plan last Friday successfully.", "label": "Backup and Disaster Recovery Policy"}
+{"text": "Stored backup files locally only with no offsite copy.", "label": "Backup and Disaster Recovery Policy"}
+{"text": "Encrypted backups before uploading them to cloud storage.", "label": "Backup and Disaster Recovery Policy"}
+{"text": "No need to define RTO or RPO for minor applications.", "label": "Backup and Disaster Recovery Policy"}
+{"text": "Backups were retained according to regulatory requirements.", "label": "Backup and Disaster Recovery Policy"}
+{"text": "I deleted old backups without verifying with data owners.", "label": "Backup and Disaster Recovery Policy"}
+{"text": "Restored email server within the documented RTO window.", "label": "Backup and Disaster Recovery Policy"}
+{"text": "Backups are tested monthly for integrity and recoverability.", "label": "Backup and Disaster Recovery Policy"}
+{"text": "Transferred backups over unsecured channels without encryption.", "label": "Backup and Disaster Recovery Policy"}
+{"text": "Stakeholders were informed using the DRP communication protocol.", "label": "Backup and Disaster Recovery Policy"}
+{"text": "Offsite copies were not updated after system changes.", "label": "Backup and Disaster Recovery Policy"}
+{"text": "Disaster recovery team simulated recovery from alternate site.", "label": "Backup and Disaster Recovery Policy"}
+{"text": "All database servers were backed up daily.", "label": "Backup and Disaster Recovery Policy"}
+{"text": "Skipped backup testing due to bandwidth constraints.", "label": "Backup and Disaster Recovery Policy"}
+{"text": "Maintained logs for each backup operation for audit.", "label": "Backup and Disaster Recovery Policy"}
+{"text": "Backups were not encrypted due to file size concerns.", "label": "Backup and Disaster Recovery Policy"}
+{"text": "All employees are aware of recovery procedures.", "label": "Backup and Disaster Recovery Policy"}
+{"text": "Backup jobs failed for three days without notification.", "label": "Backup and Disaster Recovery Policy"}
+{"text": "DRP was not reviewed in the last 12 months.", "label": "Backup and Disaster Recovery Policy"}
+{"text": "I’ve shared the password list via Slack for everyone's access.", "label": "Backup and Disaster Recovery Policy"}
+{"text": "Used my work email to sign up for a personal online shopping account.", "label": "Backup and Disaster Recovery Policy"}
+{"text": "Using a personal tablet with outdated OS to access company email.", "label": "Bring Your Own Device (BYOD) Policy"}
+{"text": "Enabled full disk encryption on my personal laptop before connecting to VPN.", "label": "Bring Your Own Device (BYOD) Policy"}
+{"text": "I declined the MDM install but still synced my contacts.", "label": "Bring Your Own Device (BYOD) Policy"}
+{"text": "Used biometric login on my device to access internal systems.", "label": "Bring Your Own Device (BYOD) Policy"}
+{"text": "Stored company files along with personal photos on my phone.", "label": "Bring Your Own Device (BYOD) Policy"}
+{"text": "Complied with data separation by using a secure work profile app.", "label": "Bring Your Own Device (BYOD) Policy"}
+{"text": "Backed up work-related files on my personal Google Drive.", "label": "Bring Your Own Device (BYOD) Policy"}
+{"text": "Agreed to remote wipe conditions before onboarding my device.", "label": "Bring Your Own Device (BYOD) Policy"}
+{"text": "Installed unauthorized apps alongside company applications.", "label": "Bring Your Own Device (BYOD) Policy"}
+{"text": "Submitted my Android version for security approval.", "label": "Bring Your Own Device (BYOD) Policy"}
+{"text": "Accessed the company VPN using a secured BYOD-compliant phone.", "label": "Bring Your Own Device (BYOD) Policy"}
+{"text": "Turned off antivirus for performance improvement.", "label": "Bring Your Own Device (BYOD) Policy"}
+{"text": "Lost my device and reported it to IT immediately.", "label": "Bring Your Own Device (BYOD) Policy"}
+{"text": "Refused the policy terms but accessed files via email.", "label": "Bring Your Own Device (BYOD) Policy"}
+{"text": "My device meets the current OS and patch requirements.", "label": "Bring Your Own Device (BYOD) Policy"}
+{"text": "Deleted all company apps after leaving the organization.", "label": "Bring Your Own Device (BYOD) Policy"}
+{"text": "Connected via VPN from a public Wi-Fi without MDM.", "label": "Bring Your Own Device (BYOD) Policy"}
+{"text": "Reviewed BYOD policy before signing into Teams.", "label": "Bring Your Own Device (BYOD) Policy"}
+{"text": "Allowed my kids to play games on my BYOD work phone.", "label": "Bring Your Own Device (BYOD) Policy"}
+{"text": "Used company-approved secure container app for email access.", "label": "Bring Your Own Device (BYOD) Policy"}
+{"text": "I’ve shared the password list via Slack for everyone's access.", "label": "Bring Your Own Device (BYOD) Policy"}
+{"text": "Used my work email to sign up for a personal online shopping account.", "label": "Bring Your Own Device (BYOD) Policy"}
+{"text": "I'm storing employee addresses and phone numbers in an unprotected Excel file.", "label": "Data Privacy Policy"}
+{"text": "Collected only relevant client data required for billing.", "label": "Data Privacy Policy"}
+{"text": "Sharing personal data of customers with third-party partners without consent.", "label": "Data Privacy Policy"}
+{"text": "Requested access logs for an employee's personal data usage history.", "label": "Data Privacy Policy"}
+{"text": "Used encryption and secure access for payroll data storage.", "label": "Data Privacy Policy"}
+{"text": "Kept outdated client personal data longer than retention policy allows.", "label": "Data Privacy Policy"}
+{"text": "Informed IT of an accidental data breach affecting employee details.", "label": "Data Privacy Policy"}
+{"text": "Transferred data internationally without verifying protection standards.", "label": "Data Privacy Policy"}
+{"text": "Access to employee records is limited based on job responsibilities.", "label": "Data Privacy Policy"}
+{"text": "Deleted personal client information as per request and policy.", "label": "Data Privacy Policy"}
+{"text": "Shared full contact list of customers with an external consultant.", "label": "Data Privacy Policy"}
+{"text": "Ensured IP addresses were masked before data analytics processing.", "label": "Data Privacy Policy"}
+{"text": "Using outdated software to handle personal information.", "label": "Data Privacy Policy"}
+{"text": "Notified the Data Protection Officer of a suspected breach.", "label": "Data Privacy Policy"}
+{"text": "Training was completed by all staff on personal data handling.", "label": "Data Privacy Policy"}
+{"text": "Stored personal data of clients in a secured cloud environment.", "label": "Data Privacy Policy"}
+{"text": "Did not redact PII from documents shared in external communications.", "label": "Data Privacy Policy"}
+{"text": "Documented all personal data retention and deletion timelines.", "label": "Data Privacy Policy"}
+{"text": "Sent client consent forms as part of onboarding process.", "label": "Data Privacy Policy"}
+{"text": "Published internal reports with anonymized user data only.", "label": "Data Privacy Policy"}
+{"text": "Used personal email to send sensitive client information.", "label": "Data Privacy Policy"}
+{"text": "I’ve shared the password list via Slack for everyone's access.", "label": "Data Privacy Policy"}
+{"text": "Used my work email to sign up for a personal online shopping account.", "label": "Data Privacy Policy"}
+{"text": "Forwarded a confidential pricing document to a personal email address.", "label": "Email and Communication Policy"}
+{"text": "Used company email signature as per policy in all communications.", "label": "Email and Communication Policy"}
+{"text": "Clicked on a suspicious link from an unknown sender.", "label": "Email and Communication Policy"}
+{"text": "Held a video conference using password-protected Zoom link.", "label": "Email and Communication Policy"}
+{"text": "Shared client details over Slack without encryption.", "label": "Email and Communication Policy"}
+{"text": "Saved all emails related to compliance investigations per retention policy.", "label": "Email and Communication Policy"}
+{"text": "Used personal WhatsApp to send project documents.", "label": "Email and Communication Policy"}
+{"text": "Corrected a grammar error before sending the proposal to the board.", "label": "Email and Communication Policy"}
+{"text": "Discussed sensitive M&A topics in an open video meeting without restrictions.", "label": "Email and Communication Policy"}
+{"text": "Reported a phishing email to the IT team immediately.", "label": "Email and Communication Policy"}
+{"text": "Added unauthorized add-ons to Outlook for personal productivity.", "label": "Email and Communication Policy"}
+{"text": "Used Teams for internal discussions and maintained professionalism.", "label": "Email and Communication Policy"}
+{"text": "Didn't include a subject line in an email to external stakeholders.", "label": "Email and Communication Policy"}
+{"text": "Encrypted financial reports before emailing to clients.", "label": "Email and Communication Policy"}
+{"text": "Used non-approved messaging apps for sharing design drafts.", "label": "Email and Communication Policy"}
+{"text": "Made sure recordings were stored securely after client call.", "label": "Email and Communication Policy"}
+{"text": "Deleted emails relevant to legal hold prematurely.", "label": "Email and Communication Policy"}
+{"text": "Did not secure mobile device used for business communication.", "label": "Email and Communication Policy"}
+{"text": "Used slang and emojis in a client-facing email.", "label": "Email and Communication Policy"}
+{"text": "Complied with company social media guidelines in LinkedIn post.", "label": "Email and Communication Policy"}
+{"text": "Used company email to send marketing material for my personal business.", "label": "Email and Communication Policy"}
+{"text": "I’ve shared the password list via Slack for everyone's access.", "label": "Email and Communication Policy"}
+{"text": "Used my work email to sign up for a personal online shopping account.", "label": "Email and Communication Policy"}
+{"text": "Sent a file containing passwords over unencrypted email.", "label": "Encryption Policy"}
+{"text": "Used HTTPS for uploading contracts to the company portal.", "label": "Encryption Policy"}
+{"text": "Stored sensitive customer data on an unencrypted USB drive.", "label": "Encryption Policy"}
+{"text": "Activated full disk encryption on all issued laptops.", "label": "Encryption Policy"}
+{"text": "Transmitted salary details using FTP without encryption.", "label": "Encryption Policy"}
+{"text": "Implemented AES-256 for customer database encryption.", "label": "Encryption Policy"}
+{"text": "Sent confidential data via Gmail without VPN or encryption.", "label": "Encryption Policy"}
+{"text": "Uploaded project data using SFTP as per policy.", "label": "Encryption Policy"}
+{"text": "Disabled TLS settings in the mail server.", "label": "Encryption Policy"}
+{"text": "Regularly rotated encryption keys for storage volumes.", "label": "Encryption Policy"}
+{"text": "Allowed files with client PII to be stored on open network shares.", "label": "Encryption Policy"}
+{"text": "Used PGP encryption for external sensitive communications.", "label": "Encryption Policy"}
+{"text": "Backed up encrypted volumes to offsite storage weekly.", "label": "Encryption Policy"}
+{"text": "Shared confidential research without verifying HTTPS connection.", "label": "Encryption Policy"}
+{"text": "Logged all key access activities in the KMS system.", "label": "Encryption Policy"}
+{"text": "Used approved encryption standards only for all transfers.", "label": "Encryption Policy"}
+{"text": "Shared patient information via Slack without encryption.", "label": "Encryption Policy"}
+{"text": "Manually encrypted restricted access folders on the server.", "label": "Encryption Policy"}
+{"text": "Stored RSA keys in plain text on desktop.", "label": "Encryption Policy"}
+{"text": "Applied strong encryption to all restricted documents before sending.", "label": "Encryption Policy"}
+{"text": "I’ve shared the password list via Slack for everyone's access.", "label": "Encryption Policy"}
+{"text": "Used my work email to sign up for a personal online shopping account.", "label": "Encryption Policy"}
+{"text": "Did not report a ransomware infection that locked access to sales reports.", "label": "Incident Response Policy"}
+{"text": "Sent logs of unauthorized access attempts to the incident response team.", "label": "Incident Response Policy"}
+{"text": "Ignored an alert about failed admin login attempts from an unknown location.", "label": "Incident Response Policy"}
+{"text": "Escalated a phishing attack to the IRT as per procedure.", "label": "Incident Response Policy"}
+{"text": "Isolated the infected endpoint immediately after detecting malware.", "label": "Incident Response Policy"}
+{"text": "Attempted to fix a breach without involving IT or the IRT.", "label": "Incident Response Policy"}
+{"text": "Logged the date, time, and system affected during the incident.", "label": "Incident Response Policy"}
+{"text": "Conducted a post-incident review and updated protocols accordingly.", "label": "Incident Response Policy"}
+{"text": "Failed to respond to repeated DoS alerts over the weekend.", "label": "Incident Response Policy"}
+{"text": "Documented lessons learned in a team meeting after breach recovery.", "label": "Incident Response Policy"}
+{"text": "Shared malware-infected documents with a client before containment.", "label": "Incident Response Policy"}
+{"text": "Followed the RTO and restored affected systems after outage.", "label": "Incident Response Policy"}
+{"text": "All suspected breaches were communicated internally within 1 hour.", "label": "Incident Response Policy"}
+{"text": "Neglected to patch vulnerabilities post-incident.", "label": "Incident Response Policy"}
+{"text": "Simulated a response drill for device theft scenario.", "label": "Incident Response Policy"}
+{"text": "Restored backup data after system was compromised.", "label": "Incident Response Policy"}
+{"text": "Forgot to notify data protection authority after major data breach.", "label": "Incident Response Policy"}
+{"text": "Attempted to cover up a misconfiguration that exposed sensitive data.", "label": "Incident Response Policy"}
+{"text": "Trained all staff on updated reporting procedures.", "label": "Incident Response Policy"}
+{"text": "Verified system logs during the analysis phase of incident handling.", "label": "Incident Response Policy"}
+{"text": "Used personal email to send sensitive client information.", "label": "Incident Response Policy"}
+{"text": "I’ve shared the password list via Slack for everyone's access.", "label": "Incident Response Policy"}
+{"text": "Used my work email to sign up for a personal online shopping account.", "label": "Incident Response Policy"}
+{"text": "Disabled system logs to avoid performance issues during deployment.", "label": "Logging and Monitoring Policy"}
+{"text": "Access logs from the production server were reviewed weekly.", "label": "Logging and Monitoring Policy"}
+{"text": "Removed old logs manually without approval or backup.", "label": "Logging and Monitoring Policy"}
+{"text": "Configured real-time alerting for unauthorized login attempts.", "label": "Logging and Monitoring Policy"}
+{"text": "Skipped log analysis this month due to team capacity issues.", "label": "Logging and Monitoring Policy"}
+{"text": "Ensured all critical systems are integrated with the SIEM.", "label": "Logging and Monitoring Policy"}
+{"text": "Stored logs on encrypted, access-controlled storage.", "label": "Logging and Monitoring Policy"}
+{"text": "Failed to preserve logs during a security incident.", "label": "Logging and Monitoring Policy"}
+{"text": "Generated alert thresholds for abnormal access behavior.", "label": "Logging and Monitoring Policy"}
+{"text": "Time-synced all systems to the NTP server for accurate logs.", "label": "Logging and Monitoring Policy"}
+{"text": "Allowed unauthorized team members to view audit logs.", "label": "Logging and Monitoring Policy"}
+{"text": "Logged all changes to firewall configurations automatically.", "label": "Logging and Monitoring Policy"}
+{"text": "Forgot to log access to restricted file shares last week.", "label": "Logging and Monitoring Policy"}
+{"text": "Implemented access restrictions to log management dashboards.", "label": "Logging and Monitoring Policy"}
+{"text": "Analyzed daily security logs for trends and anomalies.", "label": "Logging and Monitoring Policy"}
+{"text": "Log retention period exceeded policy due to delayed deletion.", "label": "Logging and Monitoring Policy"}
+{"text": "Skipped enabling logs for test environments.", "label": "Logging and Monitoring Policy"}
+{"text": "Monitoring dashboard showed repeated login failures.", "label": "Logging and Monitoring Policy"}
+{"text": "Critical alert was escalated after SIEM flagged multiple IPs.", "label": "Logging and Monitoring Policy"}
+{"text": "Attempted to tamper with log files from last quarter.", "label": "Logging and Monitoring Policy"}
+{"text": "Used personal email to send sensitive client information.", "label": "Logging and Monitoring Policy"}
+{"text": "I’ve shared the password list via Slack for everyone's access.", "label": "Logging and Monitoring Policy"}
+{"text": "Used my work email to sign up for a personal online shopping account.", "label": "Logging and Monitoring Policy"}
+{"text": "Accessed email from personal tablet without MDM installed.", "label": "Mobile Device Management (MDM) Policy"}
+{"text": "Enabled passcode and encryption on my company-issued phone.", "label": "Mobile Device Management (MDM) Policy"}
+{"text": "Uninstalled the company MDM app to avoid tracking.", "label": "Mobile Device Management (MDM) Policy"}
+{"text": "Used MDM-approved email client for accessing inbox.", "label": "Mobile Device Management (MDM) Policy"}
+{"text": "Didn't install the latest OS update on my BYOD device.", "label": "Mobile Device Management (MDM) Policy"}
+{"text": "VPN was used for accessing internal data on mobile while traveling.", "label": "Mobile Device Management (MDM) Policy"}
+{"text": "Installed unapproved apps that had access to company files.", "label": "Mobile Device Management (MDM) Policy"}
+{"text": "Reported a lost phone immediately to IT for remote wipe.", "label": "Mobile Device Management (MDM) Policy"}
+{"text": "Ignored prompts to enable antivirus on my personal laptop.", "label": "Mobile Device Management (MDM) Policy"}
+{"text": "Device was locked using biometrics and location tracking enabled.", "label": "Mobile Device Management (MDM) Policy"}
+{"text": "Accessed Teams using a shared family iPad.", "label": "Mobile Device Management (MDM) Policy"}
+{"text": "Accepted MDM terms before logging into the company app.", "label": "Mobile Device Management (MDM) Policy"}
+{"text": "Company app automatically updated via MDM platform.", "label": "Mobile Device Management (MDM) Policy"}
+{"text": "Device compliance failed and access to email was blocked.", "label": "Mobile Device Management (MDM) Policy"}
+{"text": "Skipped enrolling in MDM and continued using my phone for email.", "label": "Mobile Device Management (MDM) Policy"}
+{"text": "Set up dual profiles to separate work and personal apps.", "label": "Mobile Device Management (MDM) Policy"}
+{"text": "Used MDM-enforced VPN settings for secure browsing.", "label": "Mobile Device Management (MDM) Policy"}
+{"text": "Attempted to bypass app restrictions enforced by MDM.", "label": "Mobile Device Management (MDM) Policy"}
+{"text": "Removed all work-related data upon exit interview.", "label": "Mobile Device Management (MDM) Policy"}
+{"text": "Company wiped data remotely after device theft report.", "label": "Mobile Device Management (MDM) Policy"}
+{"text": "I’ve shared the password list via Slack for everyone's access.", "label": "Mobile Device Management (MDM) Policy"}
+{"text": "Used my work email to sign up for a personal online shopping account.", "label": "Mobile Device Management (MDM) Policy"}
+{"text": "Bypassed VPN to access internal systems from home.", "label": "Network Security Policy"}
+{"text": "Enabled firewall and updated rules on network gateway.", "label": "Network Security Policy"}
+{"text": "Used public Wi-Fi without encryption for transferring company data.", "label": "Network Security Policy"}
+{"text": "Conducted monthly vulnerability scans on all network segments.", "label": "Network Security Policy"}
+{"text": "Added a personal device to the company network without approval.", "label": "Network Security Policy"}
+{"text": "Blocked unauthorized IP addresses at the firewall.", "label": "Network Security Policy"}
+{"text": "Uploaded sensitive files to an unencrypted file sharing service.", "label": "Network Security Policy"}
+{"text": "Used MFA and VPN for remote network access.", "label": "Network Security Policy"}
+{"text": "Did not update router firmware despite security alert.", "label": "Network Security Policy"}
+{"text": "Installed an unapproved network sniffer tool on a company PC.", "label": "Network Security Policy"}
+{"text": "All internal traffic between zones was encrypted using TLS.", "label": "Network Security Policy"}
+{"text": "Accessed HR server without clearance or proper role.", "label": "Network Security Policy"}
+{"text": "Segmented production and development environments as per policy.", "label": "Network Security Policy"}
+{"text": "Shared VPN credentials with a contractor via email.", "label": "Network Security Policy"}
+{"text": "Internal IDS flagged abnormal traffic from marketing subnet.", "label": "Network Security Policy"}
+{"text": "No record of configuration changes for the network core.", "label": "Network Security Policy"}
+{"text": "Added ACLs to restrict developer access to customer DB.", "label": "Network Security Policy"}
+{"text": "Skipped quarterly penetration test due to tight schedule.", "label": "Network Security Policy"}
+{"text": "Unauthorized SSH access attempt detected and blocked.", "label": "Network Security Policy"}
+{"text": "Documented all network diagrams and updates.", "label": "Network Security Policy"}
+{"text": "Used personal email to send sensitive client information.", "label": "Network Security Policy"}
+{"text": "I’ve shared the password list via Slack for everyone's access.", "label": "Network Security Policy"}
+{"text": "Used my work email to sign up for a personal online shopping account.", "label": "Network Security Policy"}
+{"text": "Used 'Password123!' for multiple work and personal accounts.", "label": "Password Policy"}
+{"text": "Set a 14-character password with symbols and numbers.", "label": "Password Policy"}
+{"text": "Wrote down my email password on a sticky note at my desk.", "label": "Password Policy"}
+{"text": "Reset my password through IT after verifying my identity.", "label": "Password Policy"}
+{"text": "Used the same password across three company platforms.", "label": "Password Policy"}
+{"text": "Changed my password after 90 days as per policy.", "label": "Password Policy"}
+{"text": "Shared my VPN credentials with a teammate for convenience.", "label": "Password Policy"}
+{"text": "Used a company-approved password manager to store my passwords.", "label": "Password Policy"}
+{"text": "Forgot to change default admin credentials after setup.", "label": "Password Policy"}
+{"text": "Created a password using a mix of letters, numbers, and special characters.", "label": "Password Policy"}
+{"text": "Saved login credentials in plain text on my desktop.", "label": "Password Policy"}
+{"text": "Enabled MFA for all cloud service access points.", "label": "Password Policy"}
+{"text": "Requested help from IT when locked out after 5 failed login attempts.", "label": "Password Policy"}
+{"text": "Stored sensitive account credentials in a third-party notes app.", "label": "Password Policy"}
+{"text": "Used 'Admin@123' for the third time after password reset.", "label": "Password Policy"}
+{"text": "Successfully completed password training during onboarding.", "label": "Password Policy"}
+{"text": "Updated my credentials immediately after hearing about a breach.", "label": "Password Policy"}
+{"text": "Enabled biometric authentication for my password manager.", "label": "Password Policy"}
+{"text": "Configured password history to prevent reuse of last 5 passwords.", "label": "Password Policy"}
+{"text": "Access logs showed repeated attempts with weak passwords.", "label": "Password Policy"}
+{"text": "Used personal email to send sensitive client information.", "label": "Password Policy"}
+{"text": "I’ve shared the password list via Slack for everyone's access.", "label": "Password Policy"}
+{"text": "Used my work email to sign up for a personal online shopping account.", "label": "Password Policy"}
+{"text": "Left server room door unlocked after finishing network work.", "label": "Physical Security Policy"}
+{"text": "Escorted the vendor while they performed maintenance in the secure zone.", "label": "Physical Security Policy"}
+{"text": "Shared my physical access badge with a contractor.", "label": "Physical Security Policy"}
+{"text": "Security cameras were operational and monitored in real time.", "label": "Physical Security Policy"}
+{"text": "Propped open the emergency exit for ventilation in data center.", "label": "Physical Security Policy"}
+{"text": "Challenged an unknown visitor who tried to enter without badge.", "label": "Physical Security Policy"}
+{"text": "Access logs were reviewed monthly as per policy.", "label": "Physical Security Policy"}
+{"text": "Did not report missing badge to security immediately.", "label": "Physical Security Policy"}
+{"text": "Left confidential documents unattended in open meeting area.", "label": "Physical Security Policy"}
+{"text": "Badge access automatically disabled upon employee termination.", "label": "Physical Security Policy"}
+{"text": "Tailgated into the office behind someone else.", "label": "Physical Security Policy"}
+{"text": "Maintained proper visitor logbook and temporary access badges.", "label": "Physical Security Policy"}
+{"text": "Security zones were updated after office layout change.", "label": "Physical Security Policy"}
+{"text": "Left laptop unlocked in open cafeteria for 45 minutes.", "label": "Physical Security Policy"}
+{"text": "All storage rooms are kept locked after work hours.", "label": "Physical Security Policy"}
+{"text": "Gave keypad entry code to a delivery agent.", "label": "Physical Security Policy"}
+{"text": "Security drills were completed as part of annual training.", "label": "Physical Security Policy"}
+{"text": "No access control was enforced for archive room.", "label": "Physical Security Policy"}
+{"text": "Used video intercom to verify unknown visitor identity.", "label": "Physical Security Policy"}
+{"text": "Disabled motion detector in server rack room without approval.", "label": "Physical Security Policy"}
+{"text": "Used personal email to send sensitive client information.", "label": "Physical Security Policy"}
+{"text": "I’ve shared the password list via Slack for everyone's access.", "label": "Physical Security Policy"}
+{"text": "Used my work email to sign up for a personal online shopping account.", "label": "Physical Security Policy"}
+{"text": "Shared confidential client info on LinkedIn as a success story.", "label": "Social Media and Public Communication Policy"}
+{"text": "Clearly stated my views are personal on a blog post.", "label": "Social Media and Public Communication Policy"}
+{"text": "Criticized our internal security tools in a public tech forum.", "label": "Social Media and Public Communication Policy"}
+{"text": "Used corporate branding correctly in approved marketing tweet.", "label": "Social Media and Public Communication Policy"}
+{"text": "Posted screenshots of unreleased product UI on Instagram.", "label": "Social Media and Public Communication Policy"}
+{"text": "Referred all media inquiries to the communications team.", "label": "Social Media and Public Communication Policy"}
+{"text": "Shared a sanitized slide deck from last week's public event.", "label": "Social Media and Public Communication Policy"}
+{"text": "Tweeted about delays in a client project without approval.", "label": "Social Media and Public Communication Policy"}
+{"text": "Published a blog under company name without review.", "label": "Social Media and Public Communication Policy"}
+{"text": "Reposted public company news from our verified account.", "label": "Social Media and Public Communication Policy"}
+{"text": "Commented on a sensitive acquisition rumor online.", "label": "Social Media and Public Communication Policy"}
+{"text": "Used appropriate disclaimer in personal blog about work.", "label": "Social Media and Public Communication Policy"}
+{"text": "Responded to a journalist without clearance from media team.", "label": "Social Media and Public Communication Policy"}
+{"text": "Mentioned an unannounced client win in a public Slack group.", "label": "Social Media and Public Communication Policy"}
+{"text": "Used personal Facebook to advocate controversial views linked to company role.", "label": "Social Media and Public Communication Policy"}
+{"text": "Used corporate templates for presentations at industry event.", "label": "Social Media and Public Communication Policy"}
+{"text": "Liked a competitor's negative post about our services.", "label": "Social Media and Public Communication Policy"}
+{"text": "Shared a public photo from our team’s volunteer event.", "label": "Social Media and Public Communication Policy"}
+{"text": "Approved PR went through communications team first.", "label": "Social Media and Public Communication Policy"}
+{"text": "Posted screenshots from a confidential all-hands meeting.", "label": "Social Media and Public Communication Policy"}
+{"text": "Used personal email to send sensitive client information.", "label": "Social Media and Public Communication Policy"}
+{"text": "I’ve shared the password list via Slack for everyone's access.", "label": "Social Media and Public Communication Policy"}
+{"text": "Used my work email to sign up for a personal online shopping account.", "label": "Social Media and Public Communication Policy"}
+{"text": "Installed an unapproved note-taking app from a torrent site.", "label": "Software Installation and Update Policy"}
+{"text": "Used company portal to request and install approved design software.", "label": "Software Installation and Update Policy"}
+{"text": "Downloaded a PDF editor from an unknown vendor without vetting.", "label": "Software Installation and Update Policy"}
+{"text": "All OS updates were deployed automatically on team laptops.", "label": "Software Installation and Update Policy"}
+{"text": "Skipped patching test environments for six months.", "label": "Software Installation and Update Policy"}
+{"text": "Flagged a zero-day vulnerability to the IT team for fast patching.", "label": "Software Installation and Update Policy"}
+{"text": "Copied licensed software to another system without permission.", "label": "Software Installation and Update Policy"}
+{"text": "Disabled antivirus to run unauthorized game app.", "label": "Software Installation and Update Policy"}
+{"text": "Installed company-approved plugins via our management portal.", "label": "Software Installation and Update Policy"}
+{"text": "Ignored alerts about critical software patches for two weeks.", "label": "Software Installation and Update Policy"}
+{"text": "Ran update script in staging environment before production rollout.", "label": "Software Installation and Update Policy"}
+{"text": "Used only vendor-recommended builds of server software.", "label": "Software Installation and Update Policy"}
+{"text": "Installed cracked software to bypass licensing limits.", "label": "Software Installation and Update Policy"}
+{"text": "IT pushed critical update to all workstations overnight.", "label": "Software Installation and Update Policy"}
+{"text": "Used personal device to run outdated accounting software.", "label": "Software Installation and Update Policy"}
+{"text": "Tested new database version in sandbox as required.", "label": "Software Installation and Update Policy"}
+{"text": "Installed PDF reader from phishing email link.", "label": "Software Installation and Update Policy"}
+{"text": "Encrypted backup tool was upgraded to latest version.", "label": "Software Installation and Update Policy"}
+{"text": "Used Chrome extensions without IT review.", "label": "Software Installation and Update Policy"}
+{"text": "Uninstalled MDM agent to install unapproved utility.", "label": "Software Installation and Update Policy"}
+{"text": "Used personal email to send sensitive client information.", "label": "Software Installation and Update Policy"}
+{"text": "I’ve shared the password list via Slack for everyone's access.", "label": "Software Installation and Update Policy"}
+{"text": "Used my work email to sign up for a personal online shopping account.", "label": "Software Installation and Update Policy"}
+{"text": "Gave vendor full admin access before risk assessment was complete.", "label": "Third-Party_Vendor Security Policy"}
+{"text": "Signed off SLA with clearly defined data ownership clauses.", "label": "Third-Party_Vendor Security Policy"}
+{"text": "No data sharing agreement was signed with subcontractor.", "label": "Third-Party_Vendor Security Policy"}
+{"text": "Vendor access logs are reviewed quarterly as mandated.", "label": "Third-Party_Vendor Security Policy"}
+{"text": "Vendor shared customer data with a third party without consent.", "label": "Third-Party_Vendor Security Policy"}
+{"text": "Terminated vendor access upon contract end as per offboarding checklist.", "label": "Third-Party_Vendor Security Policy"}
+{"text": "Security incident by vendor was reported within 24 hours.", "label": "Third-Party_Vendor Security Policy"}
+{"text": "Vendor failed to perform regular vulnerability scans.", "label": "Third-Party_Vendor Security Policy"}
+{"text": "Background checks were not conducted for outsourced IT staff.", "label": "Third-Party_Vendor Security Policy"}
+{"text": "Vendor encrypted data during transmission and at rest.", "label": "Third-Party_Vendor Security Policy"}
+{"text": "Legal reviewed all clauses related to breach notification timelines.", "label": "Third-Party_Vendor Security Policy"}
+{"text": "Vendor removed sensitive logs after audit request.", "label": "Third-Party_Vendor Security Policy"}
+{"text": "Security clause was omitted from master agreement.", "label": "Third-Party_Vendor Security Policy"}
+{"text": "Vendor hosts their service in a compliant, certified data center.", "label": "Third-Party_Vendor Security Policy"}
+{"text": "IT conducted on-site audit of data center before contract approval.", "label": "Third-Party_Vendor Security Policy"}
+{"text": "Vendor bypassed approval and added extra access role.", "label": "Third-Party_Vendor Security Policy"}
+{"text": "Vendor training records were updated annually.", "label": "Third-Party_Vendor Security Policy"}
+{"text": "No NDA was in place before data sharing began.", "label": "Third-Party_Vendor Security Policy"}
+{"text": "Vendor onboarding lacked security checklist verification.", "label": "Third-Party_Vendor Security Policy"}
+{"text": "Vendor's incident response plan was not reviewed by our team.", "label": "Third-Party_Vendor Security Policy"}
+{"text": "Used personal email to send sensitive client information.", "label": "Third-Party_Vendor Security Policy"}
+{"text": "I’ve shared the password list via Slack for everyone's access.", "label": "Third-Party_Vendor Security Policy"}
+{"text": "Used my work email to sign up for a personal online shopping account.", "label": "Third-Party_Vendor Security Policy"}
+{"text": "Created temporary access account for intern without expiration.", "label": "User Provisioning and Deprovisioning Policy"}
+{"text": "Disabled account immediately after employee resignation.", "label": "User Provisioning and Deprovisioning Policy"}
+{"text": "Access not revoked for employee terminated last week.", "label": "User Provisioning and Deprovisioning Policy"}
+{"text": "New hire account created with manager and HR approval.", "label": "User Provisioning and Deprovisioning Policy"}
+{"text": "Gave admin access to a new employee without review.", "label": "User Provisioning and Deprovisioning Policy"}
+{"text": "Account access updated during role change process.", "label": "User Provisioning and Deprovisioning Policy"}
+{"text": "Shared login credentials with incoming replacement.", "label": "User Provisioning and Deprovisioning Policy"}
+{"text": "Email archived and forwarded post-departure as per policy.", "label": "User Provisioning and Deprovisioning Policy"}
+{"text": "Left old employee's access to Teams active for 3 weeks.", "label": "User Provisioning and Deprovisioning Policy"}
+{"text": "Used RBAC to restrict access to finance files.", "label": "User Provisioning and Deprovisioning Policy"}
+{"text": "No access review performed after department transfer.", "label": "User Provisioning and Deprovisioning Policy"}
+{"text": "Enabled MFA for new user on all critical systems.", "label": "User Provisioning and Deprovisioning Policy"}
+{"text": "Forgot to inform IT about a contractor's end date.", "label": "User Provisioning and Deprovisioning Policy"}
+{"text": "Updated user info in directory upon promotion.", "label": "User Provisioning and Deprovisioning Policy"}
+{"text": "Privileged access granted without using PAM tools.", "label": "User Provisioning and Deprovisioning Policy"}
+{"text": "Deactivated VPN access right after contract ended.", "label": "User Provisioning and Deprovisioning Policy"}
+{"text": "Did not archive user's OneDrive before deletion.", "label": "User Provisioning and Deprovisioning Policy"}
+{"text": "Followed provisioning checklist for all new hires.", "label": "User Provisioning and Deprovisioning Policy"}
+{"text": "Access logs showed terminated user logging in.", "label": "User Provisioning and Deprovisioning Policy"}
+{"text": "Reviewed user access levels quarterly as required.", "label": "User Provisioning and Deprovisioning Policy"}
+{"text": "Used personal email to send sensitive client information.", "label": "User Provisioning and Deprovisioning Policy"}
+{"text": "I’ve shared the password list via Slack for everyone's access.", "label": "User Provisioning and Deprovisioning Policy"}
+{"text": "Used my work email to sign up for a personal online shopping account.", "label": "User Provisioning and Deprovisioning Policy"}
+{"text": "Please find attached the monthly sales dashboard for your review.", "label": "no_violation"}
+{"text": "Let’s schedule the client onboarding call for next Tuesday at 2 PM.", "label": "no_violation"}
+{"text": "I've submitted my leave request in the HR portal.", "label": "no_violation"}
+{"text": "Marketing team, please review the updated ad creatives before we publish.", "label": "no_violation"}
+{"text": "The Q2 roadmap presentation is ready and saved on our internal drive.", "label": "no_violation"}
+{"text": "Please share the attendance sheet by EOD for payroll processing.", "label": "no_violation"}
+{"text": "I’ve uploaded the template to our shared Teams folder.", "label": "no_violation"}
+{"text": "Weekly team sync will continue at 9 AM every Monday.", "label": "no_violation"}
+{"text": "All IT hardware requests should be raised through the service desk.", "label": "no_violation"}
+{"text": "Don’t forget to update your availability on the shared calendar.", "label": "no_violation"}
+{"text": "Legal team has approved the NDA template for vendor onboarding.", "label": "no_violation"}
+{"text": "All documents related to the campaign have been stored in SharePoint.", "label": "no_violation"}
+{"text": "The training session on Secure Email Handling is scheduled for Thursday.", "label": "no_violation"}
+{"text": "Please make sure your timesheets are submitted by Friday.", "label": "no_violation"}
+{"text": "I've attached the agenda for our department's monthly review meeting.", "label": "no_violation"}
+{"text": "Finance has completed reconciliation for last quarter’s expenses.", "label": "no_violation"}
+{"text": "All laptops have been patched with the latest security update.", "label": "no_violation"}
+{"text": "Confirm your participation in the upcoming ISO audit workshop.", "label": "no_violation"}
+{"text": "No client PII is being shared; only high-level metrics will be disclosed.", "label": "no_violation"}
+{"text": "The VPN and MFA worked perfectly during yesterday’s remote session.", "label": "no_violation"}
+{"text": "Can you share the internal project ID so I can raise the request?", "label": "no_violation"}
+{"text": "Make sure to log your IT tickets through the helpdesk portal.", "label": "no_violation"}
+{"text": "I followed the MDM procedure and successfully enrolled my device.", "label": "no_violation"}
+{"text": "Reminder: the office fire drill is scheduled for this Wednesday.", "label": "no_violation"}
+{"text": "Can you help me confirm the IP address of our internal test server?", "label": "no_violation"}
+{"text": "The incident has been closed in ServiceNow with proper resolution notes.", "label": "no_violation"}
+{"text": "Kindly check the revised policy draft before final approval.", "label": "no_violation"}
+{"text": "The SOC2 audit results were positive and have been shared with management.", "label": "no_violation"}
+{"text": "We used the company-approved SFTP portal for the file transfer.", "label": "no_violation"}
+{"text": "Thanks for archiving the old records per our data retention schedule.", "label": "no_violation"}
+{"text": "No PII was used in the training dataset—only anonymized values.", "label": "no_violation"}
+{"text": "Vendor onboarding followed our compliance checklist completely.", "label": "no_violation"}
+{"text": "All user accounts created this week have been reviewed and approved.", "label": "no_violation"}
+{"text": "The team completed the phishing simulation training on time.", "label": "no_violation"}
+{"text": "Attached is the certificate for your attendance in GDPR training.", "label": "no_violation"}
+{"text": "IT verified that encryption is enabled on all backup volumes.", "label": "no_violation"}
+{"text": "The HR portal now supports 2FA login for all employees.", "label": "no_violation"}
+{"text": "All vendors were required to sign NDAs before receiving any documents.", "label": "no_violation"}
+{"text": "This attachment is cleared for public release and marketing use.", "label": "no_violation"}
+{"text": "No customer or employee identifiers are shared in the attached file.", "label": "no_violation"}
+{"text": "The client meeting summary contains no sensitive financials.", "label": "no_violation"}
+{"text": "Please review the anonymized survey results attached.", "label": "no_violation"}
+{"text": "The finance team has locked the spreadsheet to prevent edits.", "label": "no_violation"}
+{"text": "No internal tools were used in breach of license agreement.", "label": "no_violation"}
+{"text": "The password vault has been set up and shared securely with admins.", "label": "no_violation"}
+{"text": "Remote session logs are stored securely and audited monthly.", "label": "no_violation"}
+{"text": "All accounts are protected by mandatory password rotation policies.", "label": "no_violation"}
+{"text": "All mobile devices now use the company MDM profile as required.", "label": "no_violation"}
+{"text": "The team has passed the data classification knowledge quiz.", "label": "no_violation"}
+{"text": "Let’s connect via Microsoft Teams for the planning call.", "label": "no_violation"}
+{"text": "Reminder: do not print confidential reports unless necessary.", "label": "no_violation"}
+{"text": "The new hire orientation includes a section on data privacy.", "label": "no_violation"}
+{"text": "The incident response plan has been updated and shared with the team.", "label": "no_violation"}
+{"text": "The latest security patches have been applied to all servers.", "label": "no_violation"}

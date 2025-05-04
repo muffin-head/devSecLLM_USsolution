@@ -1,0 +1,23 @@
+{
+  "0": "AUP",
+  "1": "Access Control Policy",
+  "2": "Backup and Disaster Recovery Policy",
+  "3": "Bring Your Own Device (BYOD) Policy",
+  "4": "Data Classification Policy",
+  "5": "Data Privacy Policy",
+  "6": "Email and Communication Policy",
+  "7": "Encryption Policy",
+  "8": "Incident Response Policy",
+  "9": "Information Security Policy",
+  "10": "Logging and Monitoring Policy",
+  "11": "Mobile Device Management (MDM) Policy",
+  "12": "Network Security Policy",
+  "13": "Password Policy",
+  "14": "Physical Security Policy",
+  "15": "Remote Work Security Policy",
+  "16": "Social Media and Public Communication Policy",
+  "17": "Software Installation and Update Policy",
+  "18": "Third-Party_Vendor Security Policy",
+  "19": "User Provisioning and Deprovisioning Policy",
+  "20": "no_violation"
+}
